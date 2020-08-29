@@ -113,7 +113,7 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "id": 1,
-        "Description": ""
+        "name": "YPF GAS"
       },
       "geometry": {
         "type": "Polygon",
@@ -169,7 +169,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 2
+        "id": 2,
+        "name": "ARENERA DON ANTONIO"
       },
       "geometry": {
         "type": "Polygon",
@@ -213,7 +214,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 3
+        "id": 3,
+        "name": "CELINSKI"
       },
       "geometry": {
         "type": "Polygon",
@@ -345,7 +347,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 4
+        "id": 4,
+        "nmae": "A. ROPELATO"
       },
       "geometry": {
         "type": "Polygon",
@@ -619,7 +622,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 17,
+        "name": "PROYECTOS (BOURLOT)"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -832,7 +843,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 19,
+        "name": "INDUSTRIAS PLÁSTICAS R.P. (OLIVER ROQUE)"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -957,7 +976,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 16,
+        "name": "INTI - ENTRE RÍOS"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1082,7 +1109,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 20,
+        "name": "LAMBERT"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1123,7 +1158,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 22,
+        "name": "BIONET"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1160,7 +1203,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 21,
+        "name ": "LONGUE VIE"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1205,7 +1256,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 20,
+        "name": "LAMBERT"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1242,7 +1301,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 23,
+        "name": "ENTRECOR"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1279,7 +1346,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 23,
+        "name": "ENTRECOR"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1316,7 +1391,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 24,
+        "name": "TRIMADERAS"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1353,7 +1436,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 25,
+        "name": "CARNES DEL LITORAL"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1390,7 +1481,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 26,
+        "name": "DYNCORP"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1427,7 +1526,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 27,
+        "name": "INSUMA (CHICCHITTI PABLO)"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1468,7 +1575,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 28,
+        "name": "L. PIETROBONI"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1511,7 +1626,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 7
+        "id": 7,
+        "name": "METALÚRGICA LINCAR"
       },
       "geometry": {
         "type": "Polygon",
@@ -1651,7 +1767,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 8
+        "id": 8,
+        "name": "TERCEC"
       },
       "geometry": {
         "type": "Polygon",
@@ -1739,7 +1856,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 6
+        "id": 6,
+        "name": "ONNER SERVICIOS"
       },
       "geometry": {
         "type": "Polygon",
@@ -1996,7 +2114,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 15
+        "id": 15,
+        "name": "ASERRADERO B. A."
       },
       "geometry": {
         "type": "Polygon",
@@ -2128,7 +2247,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 9
+        "id": 9,
+        "name": "EMBOLSAR"
       },
       "geometry": {
         "type": "Polygon",
@@ -2392,7 +2512,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 14
+        "id": 14,
+        "name": "COOP. APÍCOLA  RÍO DE LOS PÁJAROS"
       },
       "geometry": {
         "type": "Polygon",
@@ -2436,7 +2557,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 13
+        "id": 13,
+        "name": "MUGHERLI DIEGO"
       },
       "geometry": {
         "type": "Polygon",
@@ -2480,7 +2602,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 12
+        "id": 12,
+        "name": "RETAMAL HÉCTOR"
       },
       "geometry": {
         "type": "Polygon",
@@ -2524,7 +2647,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 11
+        "id": 11,
+        "name": "LA SAMPEDRINA"
       },
       "geometry": {
         "type": "Polygon",
@@ -2568,7 +2692,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "id": 10
+        "id": 10,
+        "name": "MAGNUS LAB"
       },
       "geometry": {
         "type": "Polygon",
@@ -2724,7 +2849,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 18,
+        "name": "METALÚRGICA PACLAMAR"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
