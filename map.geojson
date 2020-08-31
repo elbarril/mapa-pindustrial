@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#121212",
-        "stroke-width": 3,
+        "stroke": "#1a4560",
+        "stroke-width": 4,
         "stroke-opacity": 1
       },
       "geometry": {
@@ -107,10 +107,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#ca9b49",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 1,
         "name": "YPF GAS"
@@ -165,7 +165,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -210,7 +210,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -255,7 +255,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -299,7 +299,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -343,7 +343,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -388,7 +388,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -460,7 +460,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -504,7 +504,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -548,7 +548,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -559,24 +559,24 @@
         "coordinates": [
           [
             [
-              -58.309467136859894,
-              -32.49183660178687
+              -58.30945640802383,
+              -32.49185470064464
             ],
             [
-              -58.30963879823684,
-              -32.49226644867518
+              -58.30962538719177,
+              -32.49227323571485
             ],
             [
-              -58.30867588520051,
+              -58.30867320299148,
               -32.49236599187223
             ],
             [
-              -58.308670520782464,
-              -32.491890898349254
+              -58.308683931827545,
+              -32.491906734840434
             ],
             [
-              -58.309467136859894,
-              -32.49183660178687
+              -58.30945640802383,
+              -32.49185470064464
             ]
           ]
         ]
@@ -592,7 +592,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -603,24 +603,24 @@
         "coordinates": [
           [
             [
-              -58.30864369869232,
-              -32.49188863599314
+              -58.308654427528374,
+              -32.491906734840434
             ],
             [
-              -58.30864101648331,
+              -58.308649063110344,
               -32.492370516560385
             ],
             [
-              -58.30800533294677,
-              -32.49243159982824
+              -58.308010697364814,
+              -32.49242028811509
             ],
             [
-              -58.307908773422234,
-              -32.491940670169306
+              -58.3079195022583,
+              -32.49196103136048
             ],
             [
-              -58.30864369869232,
-              -32.49188863599314
+              -58.308654427528374,
+              -32.491906734840434
             ]
           ]
         ]
@@ -636,7 +636,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -648,24 +648,24 @@
         "coordinates": [
           [
             [
-              -58.307889997959144,
-              -32.49194293252411
+              -58.30789536237717,
+              -32.491958769006146
             ],
             [
               -58.307986557483666,
-              -32.4924361245131
+              -32.49242481280053
             ],
             [
-              -58.306872770190246,
-              -32.49255150390009
+              -58.30688148736953,
+              -32.492528880502526
             ],
             [
-              -58.306666910648346,
-              -32.49204247607912
+              -58.30670714378357,
+              -32.49205831254363
             ],
             [
-              -58.307889997959144,
-              -32.49194293252411
+              -58.30789536237717,
+              -32.491958769006146
             ]
           ]
         ]
@@ -681,7 +681,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -725,7 +725,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -769,7 +769,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -813,7 +813,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -857,7 +857,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -869,7 +869,7 @@
         "coordinates": [
           [
             [
-              -58.30995261669159,
+              -58.30997675657272,
               -32.493112562339206
             ],
             [
@@ -881,11 +881,11 @@
               -32.49244517388212
             ],
             [
-              -58.309657573699944,
-              -32.492289072138725
+              -58.30963879823684,
+              -32.49229133448477
             ],
             [
-              -58.30995261669159,
+              -58.30997675657272,
               -32.493112562339206
             ]
           ]
@@ -902,7 +902,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -913,24 +913,24 @@
         "coordinates": [
           [
             [
-              -58.308271877467625,
-              -32.493273752876775
+              -58.30825209617614,
+              -32.49327544961774
             ],
             [
-              -58.30718390643597,
-              -32.49339139350784
+              -58.3072006702423,
+              -32.49337499169832
             ],
             [
-              -58.306999504566186,
-              -32.49293383845815
+              -58.307029008865356,
+              -32.49293836311774
             ],
             [
-              -58.30812469124793,
-              -32.49280941023003
+              -58.308107256889336,
+              -32.49283203355703
             ],
             [
-              -58.308271877467625,
-              -32.493273752876775
+              -58.30825209617614,
+              -32.49327544961774
             ]
           ]
         ]
@@ -946,7 +946,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -957,23 +957,23 @@
         "coordinates": [
           [
             [
-              -58.30799460411072,
+              -58.30798923969267,
               -32.4924496985663
             ],
             [
-              -58.308124020695686,
-              -32.49280941023003
+              -58.3081045746803,
+              -32.492820721894255
             ],
             [
-              -58.306999504566186,
-              -32.49293327287568
+              -58.307023644447334,
+              -32.49291800214777
             ],
             [
-              -58.30687344074249,
-              -32.492552635069806
+              -58.30689489841461,
+              -32.492549241560575
             ],
             [
-              -58.30799460411072,
+              -58.30798923969267,
               -32.4924496985663
             ]
           ]
@@ -989,10 +989,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#80b0ff",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
+        "stroke-opacity": 0.5,
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 16,
         "name": "INTI - ENTRE RÍOS"
@@ -1034,10 +1034,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#8fcbff",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
+        "stroke-opacity": 0.5,
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 29
       },
@@ -1046,24 +1046,24 @@
         "coordinates": [
           [
             [
-              -58.30973267555237,
-              -32.49234110608329
+              -58.30974876880646,
+              -32.49233884373851
             ],
             [
-              -58.31136614084244,
-              -32.49215446244684
+              -58.311342000961304,
+              -32.49214880657303
             ],
             [
-              -58.31153646111489,
-              -32.49256168442712
+              -58.31151366233825,
+              -32.492553766239524
             ],
             [
-              -58.30990433692933,
+              -58.30992311239242,
               -32.49275511422202
             ],
             [
-              -58.30973267555237,
-              -32.49234110608329
+              -58.30974876880646,
+              -32.49233884373851
             ]
           ]
         ]
@@ -1079,7 +1079,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1090,23 +1090,23 @@
         "coordinates": [
           [
             [
-              -58.30991506576538,
+              -58.309933841228485,
               -32.492773212894996
             ],
             [
-              -58.3115391433239,
-              -32.49257638963082
+              -58.31151902675629,
+              -32.492574127291945
             ],
             [
-              -58.3116839826107,
-              -32.49291800214777
+              -58.311661183834076,
+              -32.492913477487136
             ],
             [
-              -58.310041129589074,
+              -58.31006526947022,
               -32.493103513037305
             ],
             [
-              -58.30991506576538,
+              -58.309933841228485,
               -32.492773212894996
             ]
           ]
@@ -1123,7 +1123,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1135,28 +1135,28 @@
         "coordinates": [
           [
             [
-              -58.31004649400712,
-              -32.4931216116402
+              -58.31007868051528,
+              -32.4931238739653
             ],
             [
-              -58.31168666481972,
-              -32.49293270729322
+              -58.311666548252106,
+              -32.49293383845815
             ],
             [
               -58.312202990055084,
               -32.49411702919167
             ],
             [
-              -58.31250071525573,
-              -32.49473124157201
+              -58.31247389316559,
+              -32.494734634998935
             ],
             [
-              -58.31081762909889,
-              -32.49494446164792
+              -58.310821652412415,
+              -32.49494502721774
             ],
             [
-              -58.31004649400712,
-              -32.4931216116402
+              -58.31007868051528,
+              -32.4931238739653
             ]
           ]
         ]
@@ -1172,7 +1172,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1184,24 +1184,24 @@
         "coordinates": [
           [
             [
-              -58.30718357115984,
-              -32.49339167629764
+              -58.307208716869354,
+              -32.49339082792825
             ],
             [
-              -58.308272548019886,
-              -32.49327347008661
+              -58.30825746059418,
+              -32.493291285865205
             ],
             [
-              -58.30841839313507,
-              -32.493700765010104
+              -58.308437168598175,
+              -32.49376410968373
             ],
             [
-              -58.307350873947144,
-              -32.493811618159675
+              -58.307383060455315,
+              -32.4938319789274
             ],
             [
-              -58.30718357115984,
-              -32.49339167629764
+              -58.307208716869354,
+              -32.49339082792825
             ]
           ]
         ]
@@ -1217,7 +1217,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1229,32 +1229,32 @@
         "coordinates": [
           [
             [
-              -58.30841973423958,
-              -32.493700765010104
+              -58.308463990688324,
+              -32.49377768353656
             ],
             [
-              -58.30827321857213,
-              -32.493273187296445
+              -58.308278918266275,
+              -32.4932890235443
             ],
             [
-              -58.309953287243836,
-              -32.493112562339206
+              -58.309992849826784,
+              -32.49313518558999
             ],
             [
-              -58.310338854789734,
-              -32.49402653714214
+              -58.310333490371704,
+              -32.49401522562955
             ],
             [
-              -58.30751180648804,
-              -32.49427991465142
+              -58.30754399299621,
+              -32.49425050479857
             ],
             [
-              -58.30735120922327,
-              -32.493811618159675
+              -58.30739110708237,
+              -32.49385007738373
             ],
             [
-              -58.30841973423958,
-              -32.493700765010104
+              -58.308463990688324,
+              -32.49377768353656
             ]
           ]
         ]
@@ -1270,7 +1270,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1282,24 +1282,24 @@
         "coordinates": [
           [
             [
-              -58.31033952534199,
-              -32.49402653714214
+              -58.31034153699874,
+              -32.49403558635119
             ],
             [
-              -58.31071972846985,
-              -32.49491335530228
+              -58.310700953006744,
+              -32.494902043901206
             ],
             [
-              -58.30788195133209,
-              -32.49518935304784
+              -58.307889997959144,
+              -32.49516673031367
             ],
             [
-              -58.307512477040284,
-              -32.49427991465142
+              -58.307546675205224,
+              -32.49426181628158
             ],
             [
-              -58.31033952534199,
-              -32.49402653714214
+              -58.31034153699874,
+              -32.49403558635119
             ]
           ]
         ]
@@ -1315,7 +1315,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1335,12 +1335,12 @@
               -32.49566669141226
             ],
             [
-              -58.31121861934662,
+              -58.311226665973656,
               -32.495845409863776
             ],
             [
-              -58.310816287994385,
-              -32.49496538772893
+              -58.31083506345749,
+              -32.494969912286344
             ],
             [
               -58.312507420778275,
@@ -1360,7 +1360,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1405,7 +1405,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1418,7 +1418,7 @@
           [
             [
               -58.31120789051055,
-              -32.49603543922021
+              -32.49600602994129
             ],
             [
               -58.31001698970795,
@@ -1434,7 +1434,7 @@
             ],
             [
               -58.31120789051055,
-              -32.49603543922021
+              -32.49600602994129
             ]
           ]
         ]
@@ -1450,7 +1450,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1495,7 +1495,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1508,23 +1508,23 @@
           [
             [
               -58.30942019820214,
-              -32.49911713901521
+              -32.49909904161864
             ],
             [
               -58.30887436866761,
-              -32.497623526001966
+              -32.49760542830488
             ],
             [
               -58.31122398376465,
-              -32.49606258623834
+              -32.49604448822717
             ],
             [
               -58.31201255321502,
-              -32.49779545394297
+              -32.49777735628046
             ],
             [
               -58.30942019820214,
-              -32.49911713901521
+              -32.49909904161864
             ]
           ]
         ]
@@ -1540,7 +1540,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1589,7 +1589,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1634,7 +1634,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1687,7 +1687,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1731,7 +1731,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1775,7 +1775,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1820,7 +1820,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1864,7 +1864,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1909,7 +1909,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -1951,7 +1951,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 0,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1990,7 +1996,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2034,7 +2040,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2078,7 +2084,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2122,7 +2128,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2175,7 +2181,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2219,7 +2225,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2263,7 +2269,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2308,7 +2314,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2352,7 +2358,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2396,7 +2402,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2440,7 +2446,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2484,7 +2490,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2528,7 +2534,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2573,7 +2579,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2618,7 +2624,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2663,7 +2669,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2708,7 +2714,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2751,7 +2757,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 0,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2788,7 +2800,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 0,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2827,7 +2845,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2871,7 +2889,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2916,7 +2934,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -2960,7 +2978,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3004,7 +3022,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3048,7 +3066,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3092,7 +3110,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3103,12 +3121,12 @@
         "coordinates": [
           [
             [
-              -58.31147879362106,
-              -32.500444460017796
+              -58.311473429203026,
+              -32.50044672215871
             ],
             [
-              -58.31159949302673,
-              -32.50094212965191
+              -58.311598151922226,
+              -32.50093817092705
             ],
             [
               -58.310290575027445,
@@ -3119,8 +3137,8 @@
               -32.500793960116965
             ],
             [
-              -58.31147879362106,
-              -32.500444460017796
+              -58.311473429203026,
+              -32.50044672215871
             ]
           ]
         ]
@@ -3136,7 +3154,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3147,24 +3165,24 @@
         "coordinates": [
           [
             [
-              -58.31150829792023,
-              -32.50043767359465
+              -58.31150561571121,
+              -32.50043823912993
             ],
             [
-              -58.312932550907135,
-              -32.50009382748556
+              -58.312948644161224,
+              -32.500100613934634
             ],
             [
-              -58.31310823559762,
-              -32.50049535817497
+              -58.31311494112015,
+              -32.50049762031463
             ],
             [
-              -58.31162363290787,
-              -32.50093534326632
+              -58.3116289973259,
+              -32.50093081900899
             ],
             [
-              -58.31150829792023,
-              -32.50043767359465
+              -58.31150561571121,
+              -32.50043823912993
             ]
           ]
         ]
@@ -3180,7 +3198,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3191,24 +3209,24 @@
         "coordinates": [
           [
             [
-              -58.31311762332916,
-              -32.50052137277752
+              -58.31312164664268,
+              -32.500516848499366
             ],
             [
-              -58.313144445419304,
-              -32.500933081137696
+              -58.31313371658325,
+              -32.50094212965191
             ],
             [
-              -58.31173896789551,
-              -32.5014058647868
+              -58.311742991209016,
+              -32.50140360266999
             ],
             [
-              -58.31163436174392,
-              -32.50095117816522
+              -58.311634361743906,
+              -32.5009534402934
             ],
             [
-              -58.31311762332916,
-              -32.50052137277752
+              -58.31312164664268,
+              -32.500516848499366
             ]
           ]
         ]
@@ -3224,7 +3242,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3268,7 +3286,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3288,11 +3306,11 @@
             ],
             [
               -58.311958909034736,
-              -32.50217724329948
+              -32.50217498120207
             ],
             [
               -58.311838209629066,
-              -32.50182209331053
+              -32.50182435541681
             ],
             [
               -58.313069343566895,
@@ -3310,30 +3328,36 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 0,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -58.313002288341515,
-              -32.50188769436952
+              -58.31300631165505,
+              -32.50188656331718
             ],
             [
-              -58.31295937299728,
-              -32.502306182757344
+              -58.312954008579254,
+              -32.50230392066319
             ],
             [
-              -58.31208497285843,
-              -32.502508639954094
+              -58.312079608440406,
+              -32.50250637786503
             ],
             [
-              -58.311961591243744,
+              -58.31196829676628,
               -32.50219986427037
             ],
             [
-              -58.313002288341515,
-              -32.50188769436952
+              -58.31300631165505,
+              -32.50188656331718
             ]
           ]
         ]
@@ -3349,7 +3373,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3360,12 +3384,12 @@
         "coordinates": [
           [
             [
-              -58.311608880758286,
-              -32.50095570242153
+              -58.31160619854927,
+              -32.50096361986954
             ],
             [
-              -58.311720192432404,
-              -32.50141717536998
+              -58.311716169118874,
+              -32.50141152007857
             ],
             [
               -58.31047296524048,
@@ -3376,8 +3400,8 @@
               -32.5012961520562
             ],
             [
-              -58.311608880758286,
-              -32.50095570242153
+              -58.31160619854927,
+              -32.50096361986954
             ]
           ]
         ]
@@ -3393,7 +3417,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3404,8 +3428,8 @@
         "coordinates": [
           [
             [
-              -58.31172555685043,
-              -32.50143696888711
+              -58.31172287464142,
+              -32.501437534416105
             ],
             [
               -58.31180602312088,
@@ -3420,8 +3444,8 @@
               -32.5017644095812
             ],
             [
-              -58.31172555685043,
-              -32.50143696888711
+              -58.31172287464142,
+              -32.501437534416105
             ]
           ]
         ]
@@ -3437,7 +3461,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3448,8 +3472,8 @@
         "coordinates": [
           [
             [
-              -58.31181943416596,
-              -32.50182887962921
+              -58.3118100464344,
+              -32.50183340384136
             ],
             [
               -58.31192806363106,
@@ -3464,8 +3488,8 @@
               -32.50213200134063
             ],
             [
-              -58.31181943416596,
-              -32.50182887962921
+              -58.3118100464344,
+              -32.50183340384136
             ]
           ]
         ]
@@ -3481,7 +3505,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3525,7 +3549,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3569,7 +3593,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3613,7 +3637,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3657,7 +3681,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3701,7 +3725,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3745,7 +3769,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3789,7 +3813,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3833,7 +3857,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3877,7 +3901,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -3919,7 +3943,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 0,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3958,7 +3988,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -4002,7 +4032,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -4046,7 +4076,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -4090,7 +4120,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -4134,7 +4164,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -4178,7 +4208,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -4222,7 +4252,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 0,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
@@ -4261,6 +4291,51 @@
         -58.31304788589478,
         -32.499611988291875
       ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7accff",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.31052124500275,
+          -32.491976867839334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80dfff",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.31065535545349,
+          -32.492470059642265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb83d",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.308649063110344,
+          -32.489728059936326
+        ]
+      }
     }
   ]
 }
