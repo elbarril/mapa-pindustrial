@@ -6,7 +6,8 @@
       "properties": {
         "stroke": "#1a4560",
         "stroke-width": 4,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "fill": ""
       },
       "geometry": {
         "type": "LineString",
@@ -164,10 +165,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 2,
         "name": "ARENERA DON ANTONIO"
@@ -209,10 +210,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 3,
         "name": "CELINSKI"
@@ -254,10 +255,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 60
       },
@@ -298,10 +299,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 59
       },
@@ -342,10 +343,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 4,
         "nmae": "A. ROPELATO"
@@ -387,10 +388,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 5
       },
@@ -459,10 +460,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 51
       },
@@ -503,10 +504,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 50
       },
@@ -547,10 +548,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 30
       },
@@ -591,10 +592,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 31
       },
@@ -635,10 +636,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 17,
         "name": "PROYECTOS (BOURLOT)"
@@ -680,10 +681,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 47
       },
@@ -724,10 +725,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 46
       },
@@ -768,10 +769,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 48
       },
@@ -812,10 +813,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 49
       },
@@ -856,10 +857,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 19,
         "name": "INDUSTRIAS PLÁSTICAS R.P. (OLIVER ROQUE)"
@@ -901,10 +902,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 32
       },
@@ -945,10 +946,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 33
       },
@@ -989,10 +990,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#80b0ff",
+        "stroke": "#ca9b49",
         "stroke-width": 2,
-        "stroke-opacity": 0.5,
-        "fill": "#ffffff",
+        "stroke-opacity": 1,
+        "fill": "#fdff89",
         "fill-opacity": 0.5,
         "id": 16,
         "name": "INTI - ENTRE RÍOS"
@@ -1036,7 +1037,7 @@
       "properties": {
         "stroke": "#8fcbff",
         "stroke-width": 2,
-        "stroke-opacity": 0.5,
+        "stroke-opacity": 1,
         "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 29
@@ -1078,10 +1079,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 28
       },
@@ -1122,10 +1123,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 20,
         "name": "LAMBERT"
@@ -1171,10 +1172,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 22,
         "name": "BIONET"
@@ -1216,10 +1217,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 21,
         "name ": "LONGUE VIE"
@@ -1269,10 +1270,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 20,
         "name": "LAMBERT"
@@ -1314,10 +1315,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 23,
         "name": "ENTRECOR"
@@ -1359,10 +1360,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 23,
         "name": "ENTRECOR"
@@ -1404,10 +1405,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 24,
         "name": "TRIMADERAS"
@@ -1449,10 +1450,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 25,
         "name": "CARNES DEL LITORAL"
@@ -1494,10 +1495,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 26,
         "name": "DYNCORP"
@@ -1539,10 +1540,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 27,
         "name": "INSUMA (CHICCHITTI PABLO)"
@@ -1588,10 +1589,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 28,
         "name": "L. PIETROBONI"
@@ -1633,10 +1634,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 7,
         "name": "METALÚRGICA LINCAR"
@@ -1686,10 +1687,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 39
       },
@@ -1730,10 +1731,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 40
       },
@@ -1774,10 +1775,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 8,
         "name": "TERCEC"
@@ -1819,10 +1820,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 34
       },
@@ -1863,10 +1864,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 6,
         "name": "ONNER SERVICIOS"
@@ -1908,10 +1909,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 38
       },
@@ -1952,10 +1953,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -1995,10 +1996,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 37
       },
@@ -2039,10 +2040,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 36
       },
@@ -2083,10 +2084,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 35
       },
@@ -2127,10 +2128,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 15,
         "name": "ASERRADERO B. A."
@@ -2180,10 +2181,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 53
       },
@@ -2224,10 +2225,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 52
       },
@@ -2268,10 +2269,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 9,
         "name": "EMBOLSAR"
@@ -2313,10 +2314,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 57
       },
@@ -2357,10 +2358,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 58
       },
@@ -2401,10 +2402,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 56
       },
@@ -2445,10 +2446,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 55
       },
@@ -2489,10 +2490,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 54
       },
@@ -2533,10 +2534,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 14,
         "name": "COOP. APÍCOLA  RÍO DE LOS PÁJAROS"
@@ -2578,10 +2579,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 13,
         "name": "MUGHERLI DIEGO"
@@ -2623,10 +2624,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 12,
         "name": "RETAMAL HÉCTOR"
@@ -2668,10 +2669,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 11,
         "name": "LA SAMPEDRINA"
@@ -2713,10 +2714,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 10,
         "name": "MAGNUS LAB"
@@ -2758,10 +2759,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -2801,10 +2802,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -2844,10 +2845,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 45
       },
@@ -2888,10 +2889,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#ca9b49",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 18,
         "name": "METALÚRGICA PACLAMAR"
@@ -2933,10 +2934,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 42
       },
@@ -2977,10 +2978,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 41
       },
@@ -3021,10 +3022,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 43
       },
@@ -3065,10 +3066,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 44
       },
@@ -3109,10 +3110,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 16
       },
@@ -3153,10 +3154,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 15
       },
@@ -3197,10 +3198,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 13
       },
@@ -3241,10 +3242,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 11
       },
@@ -3285,10 +3286,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 9
       },
@@ -3329,10 +3330,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -3372,10 +3373,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 14
       },
@@ -3416,10 +3417,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 12
       },
@@ -3460,10 +3461,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 10
       },
@@ -3504,10 +3505,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 8
       },
@@ -3548,10 +3549,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 5
       },
@@ -3592,10 +3593,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 6
       },
@@ -3636,10 +3637,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 3
       },
@@ -3680,10 +3681,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 4
       },
@@ -3724,10 +3725,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 1
       },
@@ -3768,10 +3769,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 2
       },
@@ -3812,10 +3813,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 27
       },
@@ -3856,10 +3857,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 26
       },
@@ -3900,10 +3901,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 25
       },
@@ -3944,10 +3945,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -3987,10 +3988,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 23
       },
@@ -4031,10 +4032,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 22
       },
@@ -4075,10 +4076,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 21
       },
@@ -4119,10 +4120,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 20
       },
@@ -4163,10 +4164,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 19
       },
@@ -4207,10 +4208,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 18
       },
@@ -4251,10 +4252,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
+        "stroke": "#8fcbff",
+        "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ffffff",
         "fill-opacity": 0.5,
         "id": 17
       },
@@ -4295,9 +4296,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7accff",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
+        "marker-color": "#ffd83b",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -4325,7 +4326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffb83d",
+        "marker-color": "#ffd83b",
         "marker-size": "medium",
         "marker-symbol": "star-stroked"
       },
