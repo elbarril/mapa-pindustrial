@@ -23,16 +23,11 @@
             height: 100%;
             margin: 0;
         }
-
-        #map {
-            width: 600px;
-            height: 400px;
-        }
     </style>
 
     <style>
         #map {
-            width: 800px;
+            width: 960px;
             height: 500px;
         }
 
@@ -74,7 +69,7 @@
     <script type="text/javascript">
         var mapData = data;
       
-        var map = L.map('map').setView([-32.496, -58.305], 14);
+        var map = L.map('map').setView([-32.496, -58.305], 18);
 
         L.tileLayer(
             'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
@@ -98,9 +93,9 @@
         };
 
         info.update = function (props) {
-            this._div.innerHTML = '<h4>US Population Density</h4>' + (props ?
-                '<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>' :
-                'Hover over a state');
+            this._div.innerHTML = '<h4>Información de lote</h4>' + (props ?
+                '<b>' + props.name + '</b><br />' + props.size + '   m<sup>2</sup>' :
+                'Posicionar cursor sobre lote');
         };
 
         info.addTo(map);
@@ -122,10 +117,9 @@
             return {
                 weight: 2,
                 opacity: 1,
-                color: 'white',
-                dashArray: '3',
+                color: feature.properties.stroke,
                 fillOpacity: 0.7,
-                fillColor: 'black'
+                fillColor: feature.properties.fill
             };
         }
 
@@ -134,7 +128,6 @@
 
             layer.setStyle({
                 weight: 5,
-                color: '#666',
                 dashArray: '',
                 fillOpacity: 0.7
             });
@@ -171,7 +164,7 @@
         }).addTo(map);
 
         map.attributionControl.addAttribution(
-            'Population data &copy; <a href="http://census.gov/">US Census Bureau</a>');
+            'Datos de lotes del Parque Industrial &copy; <a href="http://prod.cdeluruguay.gob.ar/">Direccion de la Producción de Concepción del Uruguay</a>');
 
 
         var legend = L.control({
@@ -198,7 +191,7 @@
             return div;
         };
 
-        legend.addTo(map);
+        //legend.addTo(map);
     </script>
 
 
