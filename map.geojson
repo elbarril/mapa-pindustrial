@@ -4,10 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#1a4560",
-        "stroke-width": 4,
-        "stroke-opacity": 1,
-        "fill": ""
+        "stroke": "#4381a8",
+        "stroke-width": 8,
+        "stroke-opacity": 0.8,
+        "fill": "#000000"
       },
       "geometry": {
         "type": "LineString",
@@ -4292,51 +4292,6 @@
         -58.31304788589478,
         -32.499611988291875
       ]
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd83b",
-        "marker-size": "medium",
-        "marker-symbol": "star-stroked"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.31052124500275,
-          -32.491976867839334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#80dfff",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.31065535545349,
-          -32.492470059642265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd83b",
-        "marker-size": "medium",
-        "marker-symbol": "star-stroked"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.308649063110344,
-          -32.489728059936326
-        ]
-      }
     }
   ]
 }
