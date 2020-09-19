@@ -114,7 +114,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 1,
-        "name": "YPF GAS"
+        "name": "YPF GAS",
+        "activity": "Fraccionamiento y comercialización de GLP",
+        "square": "Mz 1 Lotes 1,2 Y 3",
+        "since": 1994,
+        "area": "3,18"
       },
       "geometry": {
         "type": "Polygon",
@@ -1778,10 +1782,14 @@
         "stroke": "#8fcbff",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffffff",
+        "fill": "#ffee80",
         "fill-opacity": 0.5,
         "id": 8,
-        "name": "TERCEC"
+        "name": "TERCEC",
+        "activity": "Fabricación de productos metálicos para uso estructural –  implementos para minicargadoras",
+        "square": "M 3 Lote 5",
+        "since": "",
+        "area": "0,46"
       },
       "geometry": {
         "type": "Polygon",
@@ -2552,7 +2560,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 14,
-        "name": "COOP. APÍCOLA  RÍO DE LOS PÁJAROS"
+        "name": "COOP. APÍCOLA  RÍO DE LOS PÁJAROS",
+        "since": 2014,
+        "activity": "Planta de extracción de miel",
+        "area": "0,2",
+        "square": "Mz 4 Lote 17"
       },
       "geometry": {
         "type": "Polygon",
