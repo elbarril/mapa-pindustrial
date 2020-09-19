@@ -171,7 +171,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 2,
-        "name": "ARENERA DON ANTONIO"
+        "name": "ARENERA DON ANTONIO",
+        "activity": "Procesamiento de arena, hormigón y canto rodado",
+        "since": 2009,
+        "area": "0,73",
+        "square": "Mz 1 Lote 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -216,7 +220,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 3,
-        "name": "CELINSKI"
+        "name": "CELINSKI",
+        "activity": "Metalúrgica - fabricación de prensas pelleteadoras",
+        "since": 1989,
+        "square": "Mz 1 Lote 5",
+        "area": "1,46"
       },
       "geometry": {
         "type": "Polygon",
@@ -349,7 +357,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 4,
-        "nmae": "A. ROPELATO"
+        "name": "A. ROPELATO",
+        "activity": "Fabricación de premoldeados de hormigón ",
+        "since": 2012,
+        "area": "1,46",
+        "square": "Mz 1 Lotes 3 y 4"
       },
       "geometry": {
         "type": "Polygon",
@@ -393,7 +405,12 @@
         "stroke-opacity": 1,
         "fill": "#fdff85",
         "fill-opacity": 0.5,
-        "id": 5
+        "id": 5,
+        "name": "INMOBAL NUTRER SA (QUIMTIA)",
+        "activity": "Producción de premezclas y productos químicos para nutrición - Coadyuvantes para elaboración de Biodiesel",
+        "since": 2002,
+        "area": "3,95",
+        "square": "Mz 2 Lotes 5 y 6"
       },
       "geometry": {
         "type": "Polygon",
@@ -642,7 +659,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 17,
-        "name": "PROYECTOS (BOURLOT)"
+        "name": "PROYECTOS (BOURLOT)",
+        "activity": "Fabricación de muebles",
+        "square": "Mz 6 Lote 2",
+        "since": 2016,
+        "area": "0,53"
       },
       "geometry": {
         "type": "Polygon",
@@ -996,7 +1017,11 @@
         "fill": "#fdff89",
         "fill-opacity": 0.5,
         "id": 16,
-        "name": "INTI - ENTRE RÍOS"
+        "name": "INTI - ENTRE RÍOS",
+        "activity": "Instituto Nacional de Tecnología Industrial",
+        "square": "Mz 5 Lote 1",
+        "area": "0,7",
+        "since": 1997
       },
       "geometry": {
         "type": "Polygon",
@@ -1129,7 +1154,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 20,
-        "name": "LAMBERT"
+        "name": "LAMBERT",
+        "activity": "Fabricación de acoplados y remolques",
+        "since": 1999,
+        "area": "5,89",
+        "square": "Mz 5 Lotes 4,5,6 Y 7 -  Mz 6 Lotes 7,8,9 Y 10"
       },
       "geometry": {
         "type": "Polygon",
@@ -1178,7 +1207,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 22,
-        "name": "BIONET"
+        "name": "BIONET",
+        "activity": "Elaboración de coadyuvantes y fertilizantes",
+        "since": 2015,
+        "area": "0,57",
+        "square": "Mz Lote 5"
       },
       "geometry": {
         "type": "Polygon",
@@ -1222,61 +1255,12 @@
         "stroke-opacity": 1,
         "fill": "#fdff85",
         "fill-opacity": 0.5,
-        "id": 21,
-        "name ": "LONGUE VIE"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -58.308463990688324,
-              -32.49377768353656
-            ],
-            [
-              -58.308278918266275,
-              -32.4932890235443
-            ],
-            [
-              -58.309992849826784,
-              -32.49313518558999
-            ],
-            [
-              -58.310333490371704,
-              -32.49401522562955
-            ],
-            [
-              -58.30754399299621,
-              -32.49425050479857
-            ],
-            [
-              -58.30739110708237,
-              -32.49385007738373
-            ],
-            [
-              -58.308463990688324,
-              -32.49377768353656
-            ]
-          ]
-        ]
-      },
-      "bbox": [
-        -58.310338854789734,
-        -32.49427991465142,
-        -58.30735120922327,
-        -32.493112562339206
-      ]
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#ca9b49",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#fdff85",
-        "fill-opacity": 0.5,
         "id": 20,
-        "name": "LAMBERT"
+        "name": "LAMBERT",
+        "activity": "Fabricación de acoplados y remolques",
+        "since": 1999,
+        "area": "5,89",
+        "square": "Mz 5 Lotes 4,5,6 Y 7 -  Mz 6 Lotes 7,8,9 Y 10"
       },
       "geometry": {
         "type": "Polygon",
@@ -1321,7 +1305,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 23,
-        "name": "ENTRECOR"
+        "name": "ENTRECOR",
+        "activity": "Fábrica de cartón corrugado y complementos",
+        "since": 1984,
+        "area": "1,96",
+        "square": "Mz 10 Lotes 1,2 Y 3A"
       },
       "geometry": {
         "type": "Polygon",
@@ -1456,7 +1444,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 25,
-        "name": "CARNES DEL LITORAL"
+        "name": "CARNES DEL LITORAL",
+        "activity": "Frigorífico bovino",
+        "since": 1997,
+        "area": "2,8",
+        "square": "Mz 11 Lotes 2,3,4,5 Y 6"
       },
       "geometry": {
         "type": "Polygon",
@@ -1501,7 +1493,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 26,
-        "name": "DYNCORP"
+        "name": "DYNCORP",
+        "activity": "Impregnación de postes de madera",
+        "square": "5,04",
+        "since": 2002,
+        "area": "Mz 14 Lotes 1,2,3,4,11 Y 12"
       },
       "geometry": {
         "type": "Polygon",
@@ -1637,10 +1633,14 @@
         "stroke": "#8fcbff",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffffff",
+        "fill": "#fffa61",
         "fill-opacity": 0.5,
         "id": 7,
-        "name": "METALÚRGICA LINCAR"
+        "name": "METALÚRGICA LINCAR",
+        "activity": "Fabricación de carrocerías",
+        "since": 2017,
+        "area": "1,58",
+        "square": "Mz 3 Lotes 6A,7"
       },
       "geometry": {
         "type": "Polygon",
@@ -1867,10 +1867,14 @@
         "stroke": "#8fcbff",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffffff",
+        "fill": "#fdd74e",
         "fill-opacity": 0.5,
         "id": 6,
-        "name": "ONNER SERVICIOS"
+        "name": "ONNER SERVICIOS",
+        "since": 2015,
+        "area": "0,23",
+        "activity": "Fabricación de columnas para iluminación",
+        "square": "Mz 3 Lote 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -2134,7 +2138,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 15,
-        "name": "ASERRADERO B. A."
+        "name": "ASERRADERO B. A.",
+        "activity": "Aserradero",
+        "since": 1997,
+        "area": "0,28",
+        "square": "Mz 4 Lote 8"
       },
       "geometry": {
         "type": "Polygon",
@@ -2275,7 +2283,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 9,
-        "name": "EMBOLSAR"
+        "name": "EMBOLSAR",
+        "activity": "Fabricación de bolsas de polietileno",
+        "square": "Mz 4 Lotes 1,2 Y 9A",
+        "area": "0,82",
+        "since": 2004
       },
       "geometry": {
         "type": "Polygon",
@@ -2585,7 +2597,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 13,
-        "name": "MUGHERLI DIEGO"
+        "name": "MUGHERLI DIEGO",
+        "activity": "Fabricación de muebles y aberturas",
+        "square": "Mz 4 Lote 16",
+        "area": "0,2",
+        "since": 2012
       },
       "geometry": {
         "type": "Polygon",
@@ -2630,7 +2646,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 12,
-        "name": "RETAMAL HÉCTOR"
+        "name": "RETAMAL HÉCTOR",
+        "square": "Mz 4 Lotes 14 Y 15",
+        "activity": "Fabricación de premoldeados de hormigón ",
+        "area": "0,4",
+        "since": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2675,7 +2695,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 11,
-        "name": "LA SAMPEDRINA"
+        "name": "LA SAMPEDRINA",
+        "activity": "Fabricación de Láminas de cartón asfálticas",
+        "area": "0,4",
+        "square": "Mz 4 Lotes 12 y 13",
+        "since": 2008
       },
       "geometry": {
         "type": "Polygon",
@@ -2720,7 +2744,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 10,
-        "name": "MAGNUS LAB"
+        "name": "MAGNUS LAB",
+        "since": 2008,
+        "activity": "Fabricación de productos veterinarios",
+        "square": "Mz 4 Lote 9B",
+        "area": "0,16"
       },
       "geometry": {
         "type": "Polygon",
@@ -2895,7 +2923,11 @@
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 18,
-        "name": "METALÚRGICA PACLAMAR"
+        "name": "METALÚRGICA PACLAMAR",
+        "activity": "Metalúrgica - Fabricación de incubadoras móviles y Cabinas para ascensores",
+        "square": "Mz 7 Lotes 4 y 5",
+        "since": 2018,
+        "area": "0,94"
       },
       "geometry": {
         "type": "Polygon",
