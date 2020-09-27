@@ -7,7 +7,10 @@
         "stroke": "#4381a8",
         "stroke-width": 8,
         "stroke-opacity": 0.8,
-        "fill": "#000000"
+        "fill": "#000000",
+        "available": "false",
+        "area": "",
+        "name": "Perimetro del Parque Industrial"
       },
       "geometry": {
         "type": "LineString",
