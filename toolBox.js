@@ -17,7 +17,7 @@ info.update = function(props) {
                     var since = props.since ? props.since + '<br />' : ' ';
                     var square = props.square ? props.square + '<br />' : ' ';
                     this._div.innerHTML =
-                        '<h4>Información de lote</h4><b>' +
+                        '<h4>Información</h4><b>' +
                         props.name + '</b><br />' +
                         area +
                         activity +

@@ -18,7 +18,7 @@ function style(feature) {
     switch (show) {
         case SHOW_COMPANY:
             return {
-                weight: 2,
+                weight: feature.properties.width,
                 opacity: 1,
                 color: feature.properties.name ? feature.properties.stroke : null,
                 fillOpacity: 0.7,
@@ -27,7 +27,7 @@ function style(feature) {
             break;
         case SHOW_EMPTY:
             return {
-                weight: 2,
+                weight: feature.properties.width,
                 opacity: 1,
                 color: feature.properties.available ? feature.properties.stroke : null,
                 fillOpacity: 0.7,
@@ -36,7 +36,7 @@ function style(feature) {
             break;
         case SHOW_ALL:
             return {
-                weight: 2,
+                weight: feature.properties.width,
                 opacity: 1,
                 color: feature.properties.stroke,
                 fillOpacity: 0.7,
@@ -45,6 +45,7 @@ function style(feature) {
             break;
 
         default:
+            
             break;
     }
 
