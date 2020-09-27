@@ -111,6 +111,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -121,7 +122,8 @@
         "activity": "Fraccionamiento y comercialización de GLP",
         "square": "Mz 1 Lotes 1,2 Y 3",
         "since": 1994,
-        "area": "3,18"
+        "area": "3,18",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -172,6 +174,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -182,7 +185,8 @@
         "activity": "Procesamiento de arena, hormigón y canto rodado",
         "since": 2009,
         "area": "0,73",
-        "square": "Mz 1 Lote 1"
+        "square": "Mz 1 Lote 1",
+        "type ": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -221,6 +225,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -231,7 +236,8 @@
         "activity": "Metalúrgica - fabricación de prensas pelleteadoras",
         "since": 1989,
         "square": "Mz 1 Lote 5",
-        "area": "1,46"
+        "area": "1,46",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -358,6 +364,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -368,7 +375,8 @@
         "activity": "Fabricación de premoldeados de hormigón ",
         "since": 2012,
         "area": "1,46",
-        "square": "Mz 1 Lotes 3 y 4"
+        "square": "Mz 1 Lotes 3 y 4",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -407,6 +415,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -417,7 +426,8 @@
         "activity": "Producción de premezclas y productos químicos para nutrición - Coadyuvantes para elaboración de Biodiesel",
         "since": 2002,
         "area": "3,95",
-        "square": "Mz 2 Lotes 5 y 6"
+        "square": "Mz 2 Lotes 5 y 6",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -484,6 +494,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -491,7 +502,8 @@
         "fill-opacity": 0.5,
         "id": 51,
         "area": 0.89,
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -618,6 +630,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -625,7 +638,8 @@
         "fill-opacity": 0.5,
         "id": 31,
         "area": 0.89,
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -664,6 +678,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -674,7 +689,8 @@
         "activity": "Fabricación de muebles",
         "square": "Mz 6 Lote 2",
         "since": 2016,
-        "area": "0,53"
+        "area": "0,53",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -713,6 +729,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -720,7 +737,8 @@
         "fill-opacity": 0.5,
         "id": 47,
         "area": 0.24,
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -803,6 +821,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -813,7 +832,8 @@
         "available": "true",
         "since": "",
         "square": "",
-        "name": ""
+        "name": "",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -852,6 +872,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -859,7 +880,8 @@
         "fill-opacity": 0.5,
         "id": 49,
         "area": 0.33,
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -898,13 +920,15 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 19,
-        "name": "INDUSTRIAS PLÁSTICAS R.P. (OLIVER ROQUE)"
+        "name": "INDUSTRIAS PLÁSTICAS R.P. (OLIVER ROQUE)",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1032,6 +1056,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -1042,7 +1067,8 @@
         "activity": "Instituto Nacional de Tecnología Industrial",
         "square": "Mz 5 Lote 1",
         "area": "0,7",
-        "since": 1997
+        "since": 1997,
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1169,6 +1195,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -1179,7 +1206,8 @@
         "activity": "Fabricación de acoplados y remolques",
         "since": 1999,
         "area": "5,89",
-        "square": "Mz 5 Lotes 4,5,6 Y 7 -  Mz 6 Lotes 7,8,9 Y 10"
+        "square": "Mz 5 Lotes 4,5,6 Y 7 -  Mz 6 Lotes 7,8,9 Y 10",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1222,6 +1250,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -1232,7 +1261,8 @@
         "activity": "Elaboración de coadyuvantes y fertilizantes",
         "since": 2015,
         "area": "0,57",
-        "square": "Mz Lote 5"
+        "square": "Mz Lote 5",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1271,6 +1301,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -1281,7 +1312,8 @@
         "activity": "Fabricación de acoplados y remolques",
         "since": 1999,
         "area": "5,89",
-        "square": "Mz 5 Lotes 4,5,6 Y 7 -  Mz 6 Lotes 7,8,9 Y 10"
+        "square": "Mz 5 Lotes 4,5,6 Y 7 -  Mz 6 Lotes 7,8,9 Y 10",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1320,6 +1352,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -1330,7 +1363,8 @@
         "activity": "Fábrica de cartón corrugado y complementos",
         "since": 1984,
         "area": "1,96",
-        "square": "Mz 10 Lotes 1,2 Y 3A"
+        "square": "Mz 10 Lotes 1,2 Y 3A",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1369,13 +1403,15 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 23,
-        "name": "ENTRECOR"
+        "name": "ENTRECOR",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1414,13 +1450,15 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 24,
-        "name": "TRIMADERAS"
+        "name": "TRIMADERAS",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1459,6 +1497,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -1469,7 +1508,8 @@
         "activity": "Frigorífico bovino",
         "since": 1997,
         "area": "2,8",
-        "square": "Mz 11 Lotes 2,3,4,5 Y 6"
+        "square": "Mz 11 Lotes 2,3,4,5 Y 6",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1508,6 +1548,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -1518,7 +1559,8 @@
         "activity": "Impregnación de postes de madera",
         "square": "5,04",
         "since": 2002,
-        "area": "Mz 14 Lotes 1,2,3,4,11 Y 12"
+        "area": "Mz 14 Lotes 1,2,3,4,11 Y 12",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1557,13 +1599,15 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 27,
-        "name": "INSUMA (CHICCHITTI PABLO)"
+        "name": "INSUMA (CHICCHITTI PABLO)",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1606,13 +1650,15 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
         "fill": "#fdff85",
         "fill-opacity": 0.5,
         "id": 28,
-        "name": "L. PIETROBONI"
+        "name": "L. PIETROBONI",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1651,6 +1697,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -1661,7 +1708,8 @@
         "activity": "Fabricación de carrocerías",
         "since": 2017,
         "area": "1,58",
-        "square": "Mz 3 Lotes 6A,7"
+        "square": "Mz 3 Lotes 6A,7",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1708,6 +1756,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -1715,7 +1764,8 @@
         "fill-opacity": 0.5,
         "id": 39,
         "area": 0.24,
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -1798,6 +1848,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -1808,7 +1859,8 @@
         "activity": "Fabricación de productos metálicos para uso estructural –  implementos para minicargadoras",
         "square": "M 3 Lote 5",
         "since": "",
-        "area": "0,46"
+        "area": "0,46",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1891,6 +1943,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -1901,7 +1954,8 @@
         "since": 2015,
         "area": "0,23",
         "activity": "Fabricación de columnas para iluminación",
-        "square": "Mz 3 Lote 3"
+        "square": "Mz 3 Lote 3",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -1940,6 +1994,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -1947,7 +2002,8 @@
         "fill-opacity": 0.5,
         "id": 38,
         "area": 0.29,
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -2161,6 +2217,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -2171,7 +2228,8 @@
         "activity": "Aserradero",
         "since": 1997,
         "area": "0,28",
-        "square": "Mz 4 Lote 8"
+        "square": "Mz 4 Lote 8",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -2306,6 +2364,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -2316,7 +2375,8 @@
         "activity": "Fabricación de bolsas de polietileno",
         "square": "Mz 4 Lotes 1,2 Y 9A",
         "area": "0,82",
-        "since": 2004
+        "since": 2004,
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -2443,6 +2503,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -2450,7 +2511,8 @@
         "fill-opacity": 0.5,
         "id": 56,
         "area": "0.20",
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -2489,6 +2551,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -2496,7 +2559,8 @@
         "fill-opacity": 0.5,
         "id": 55,
         "area": "0.20",
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -2579,6 +2643,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -2589,7 +2654,8 @@
         "since": 2014,
         "activity": "Planta de extracción de miel",
         "area": "0,2",
-        "square": "Mz 4 Lote 17"
+        "square": "Mz 4 Lote 17",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -2628,6 +2694,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -2638,7 +2705,8 @@
         "activity": "Fabricación de muebles y aberturas",
         "square": "Mz 4 Lote 16",
         "area": "0,2",
-        "since": 2012
+        "since": 2012,
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -2677,6 +2745,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -2687,7 +2756,8 @@
         "square": "Mz 4 Lotes 14 Y 15",
         "activity": "Fabricación de premoldeados de hormigón ",
         "area": "0,4",
-        "since": ""
+        "since": "",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -2775,6 +2845,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -2785,7 +2856,8 @@
         "since": 2008,
         "activity": "Fabricación de productos veterinarios",
         "square": "Mz 4 Lote 9B",
-        "area": "0,16"
+        "area": "0,16",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -2824,6 +2896,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -2831,7 +2904,8 @@
         "fill-opacity": 0.5,
         "id": 61,
         "area": 0.17,
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -2870,6 +2944,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -2877,7 +2952,8 @@
         "fill-opacity": 0.5,
         "id": 62,
         "area": 0.24,
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -2916,6 +2992,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -2923,7 +3000,8 @@
         "fill-opacity": 0.5,
         "id": 45,
         "available": "true",
-        "area": ""
+        "area": "",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -2962,6 +3040,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
@@ -2972,7 +3051,8 @@
         "activity": "Metalúrgica - Fabricación de incubadoras móviles y Cabinas para ascensores",
         "square": "Mz 7 Lotes 4 y 5",
         "since": 2018,
-        "area": "0,94"
+        "area": "0,94",
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -3011,6 +3091,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -3019,7 +3100,8 @@
         "id": 42,
         "area": 0.21,
         "available": "true",
-        "since": ""
+        "since": "",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -3058,6 +3140,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -3065,7 +3148,8 @@
         "fill-opacity": 0.5,
         "id": 41,
         "area": 0.26,
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -3104,6 +3188,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -3111,7 +3196,8 @@
         "fill-opacity": 0.5,
         "id": 43,
         "area": 0.33,
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -3150,6 +3236,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -3157,7 +3244,8 @@
         "fill-opacity": 0.5,
         "id": 44,
         "area": 0.47,
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -3196,6 +3284,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -3203,7 +3292,8 @@
         "fill-opacity": 0.5,
         "id": 16,
         "available": "true",
-        "area": 0.73
+        "area": 0.73,
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -3461,6 +3551,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -3468,7 +3559,8 @@
         "fill-opacity": 0.5,
         "id": 14,
         "area": 0.79,
-        "available": "true"
+        "available": "true",
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -4387,6 +4479,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#8fcbff",
         "width": 2,
         "stroke-opacity": 1,
@@ -4394,7 +4487,8 @@
         "fill-opacity": 0.5,
         "id": 63,
         "available": "true",
-        "area": 0.33
+        "area": 0.33,
+        "type": "lote"
       },
       "geometry": {
         "type": "Polygon",
@@ -4427,11 +4521,13 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
         "stroke": "#ca9b49",
         "width": 2,
         "stroke-opacity": 1,
         "fill": "#fdff85",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "type": "company"
       },
       "geometry": {
         "type": "Polygon",
@@ -4474,7 +4570,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4489,7 +4586,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4504,7 +4602,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4519,7 +4618,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4534,7 +4634,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4549,7 +4650,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4564,7 +4666,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4579,7 +4682,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4594,7 +4698,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4609,7 +4714,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4624,7 +4730,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4639,7 +4746,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4654,7 +4762,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4669,7 +4778,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4684,7 +4794,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4699,7 +4810,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4714,7 +4826,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4729,7 +4842,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4744,7 +4858,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4759,7 +4874,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4774,7 +4890,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4789,7 +4906,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4804,7 +4922,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4819,7 +4938,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4834,7 +4954,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4849,7 +4970,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4864,7 +4986,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4879,7 +5002,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4894,7 +5018,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4909,7 +5034,8 @@
       "properties": {
         "marker-color": "#ca9b49",
         "marker-size": "medium",
-        "marker-symbol": "industrial"
+        "marker-symbol": "industrial",
+        "type": "company"
       },
       "geometry": {
         "type": "Point",
@@ -4924,7 +5050,8 @@
       "properties": {
         "marker-symbol": "entrance",
         "marker-color": "#8fcbff",
-        "marker-size": "medium"
+        "marker-size": "medium",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -4939,7 +5066,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -4954,7 +5082,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -4969,7 +5098,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -4984,7 +5114,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -4999,7 +5130,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5014,7 +5146,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5029,7 +5162,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5044,7 +5178,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5059,7 +5194,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5074,7 +5210,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5089,7 +5226,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5104,7 +5242,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5119,7 +5258,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5134,7 +5274,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5149,7 +5290,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5164,7 +5306,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5179,7 +5322,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
@@ -5194,7 +5338,8 @@
       "properties": {
         "marker-color": "#8fcbff",
         "marker-size": "medium",
-        "marker-symbol": "entrance"
+        "marker-symbol": "entrance",
+        "type": "lote"
       },
       "geometry": {
         "type": "Point",
