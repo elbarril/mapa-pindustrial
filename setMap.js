@@ -14,15 +14,18 @@ L.tileLayer(
 ).addTo(map);
 
 function style(feature) {
+    if (feature.geometry.type === "Polygon") {
+        console.log("HOLIS");
+    }
     show = getShow();
     switch (show) {
         case SHOW_COMPANY:
             return {
                 weight: feature.properties.width,
                 opacity: 1,
-                color: feature.properties.name ? feature.properties.stroke : null,
+                color: feature.properties.type && feature.properties.type == "company" ? feature.properties.stroke : null,
                 fillOpacity: 0.7,
-                fillColor: feature.properties.name ? feature.properties.fill : null
+                fillColor: feature.properties.type && feature.properties.type == "company" ? feature.properties.fill : null
             };
             break;
         case SHOW_EMPTY:
@@ -45,10 +48,8 @@ function style(feature) {
             break;
 
         default:
-            
             break;
     }
-
 }
 
 map.attributionControl.addAttribution(

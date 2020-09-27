@@ -1,10 +1,14 @@
 function highlightFeature(e) {
     var layer = e.target;
+    if (e.target.feature.geometry.type === "Polygon") {
+        layer.setStyle({
+            weight: 5,
+            fillOpacity: 0.7
+        });
+    } else if (e.target.feature.geometry.type === "Point") {
+        return;
+    }
 
-    layer.setStyle({
-        weight: 5,
-        fillOpacity: 0.7
-    });
 
     if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
         layer.bringToFront();
@@ -16,9 +20,15 @@ function highlightFeature(e) {
 
 function resetHighlight(e) {
     //geojson.resetStyle(e.target);
-    e.target.setStyle({
-        weight: e.target.feature.properties.width,
-    });
+
+    if (e.target.feature.geometry.type === "Polygon") {
+        e.target.setStyle({
+            weight: e.target.feature.properties.width
+        });
+    } else if (e.target.feature.geometry.type === "Point") {
+        return;
+    }
+
     info.update();
 }
 
@@ -38,4 +48,3 @@ geojson = L.geoJson(mapData, {
     style: style,
     onEachFeature: onEachFeature
 }).addTo(map);
-
