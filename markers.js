@@ -1,5 +1,5 @@
 //Para implementarlo hay q borrar el ultimo ]} y pegar esto : 
-, {
+markers = [{
     "type": "Feature",
     "properties": {
         "marker-color": "#ca9b49",
@@ -588,4 +588,3 @@
         "coordinates": [-58.311041593551636, -32.501333477020815]
     }
 }]
-}

@@ -22,6 +22,7 @@ getShow = function() {
     this.show = show;
     return show;
 }
+
 window.onload = function() {
     try {
         var url_string = (window.location.href).toLowerCase();
@@ -34,66 +35,70 @@ window.onload = function() {
 
     switch (lote) {
         case "7mz2":
-            coordinates = [-32.491429, -58.302304]
+            coordinates = [-32.4914746238669, -58.30236196517944]
             break;
         case "2mz3":
-            coordinates = [-32.490316, -58.308334]
+            coordinates = [-32.49044411000094, -58.30807775259018]
             break;
         case "4amz3":
-            coordinates = [-32.490379, -58.307014]
+            coordinates = [-32.49055609835826, -58.30695390701294]
             break;
         case "6mz4":
-            coordinates = [-32.490748, -58.304682]
+            coordinates = [-32.49097690184887, -58.304572105407715]
             break;
         case "7mz4":
-            coordinates = [-32.490757, -58.304425]
+            coordinates = [-32.4909916073116, -58.304336071014404]
             break;
         case "11amz4":
-            coordinates = [-32.491580, -58.306206]
+            coordinates = [-32.49162846466085, -58.30598831176758]
             break;
         case "11bmz4":
-            coordinates = [-32.491806, -58.306335]
+            coordinates = [-32.491918046618146, -58.30607414245605]
             break;
         case "1bmz6":
-            coordinates = [-32.492127, -58.308590]
+            coordinates = [-32.492171430066165, -58.308284282684326]
             break;
         case "1amz7":
-            coordinates = [-32.492395, -58.306432]
+            coordinates = [-32.492470059642265, -58.30636382102966]
             break;
         case "1bmz7":
-            coordinates = [-32.493028, -58.306689]
+            coordinates = [-32.49317590742702, -58.306567668914795]
             break;
         case "2mz7":
-            coordinates = [-32.492612, -58.305874]
+            coordinates = [-32.492822984226926, -58.30585956573486]
             break;
         case "3mz7":
-            coordinates = [-32.492621, -58.305316]
+            coordinates = [-32.492850132214535, -58.30544114112854]
             break;
         case "1amz8":
-            coordinates = [-32.492584, -58.302913]
+            coordinates = [-32.49272344153553, -58.30304861068725]
             break;
         case "1bmz8":
             coordinates = [-32.493181, -58.303020]
             break;
         case "2mz8":
-            coordinates = [-32.492955, -58.302484]
+            coordinates = [-32.49313971023945, -58.302630186080926]
             break;
         case "3amz8":
-            coordinates = [-32.492937, -58.302162]
+            coordinates = [-32.49315780883504, -58.30225467681885]
             break;
         case "4amz8":
-            coordinates = [-32.492928, -58.301840]
+            coordinates = [-32.493184956721635, -58.30193281173706]
             break;
         case "2mz15":
-            coordinates = [-32.500949, -58.311046]
+            coordinates = [-32.50086747938236, -58.31088066101074]
             break;
         case "3mz15":
-            coordinates = [-32.501139, -58.311121]
+            coordinates = [-32.501333477020815, -58.311041593551636]
             break;
         default:
             coordinates = COORDINATES_DEFAULT
-
             break;
+    }
+    if (lote) {
+        this.addMarker(coordinates);
+    } else {
+        this.addMarkers(show);
     }
     map.setView(coordinates, zoom);
 }
