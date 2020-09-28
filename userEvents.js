@@ -20,7 +20,6 @@ function highlightFeature(e) {
 
 function resetHighlight(e) {
     //geojson.resetStyle(e.target);
-    console.log(e.target.feature.properties);
     if (e.target.feature.geometry.type === "Polygon") {
         e.target.setStyle({
             weight: e.target.feature.properties.width,
