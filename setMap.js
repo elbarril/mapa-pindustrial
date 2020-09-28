@@ -13,44 +13,11 @@ L.tileLayer(
     }
 ).addTo(map);
 
-function style(feature) {
-    if (feature.geometry.type === "Polygon") {
-        console.log("HOLIS");
-    }
-    show = getShow();
-    switch (show) {
-        case SHOW_COMPANY:
-            return {
-                weight: feature.properties.width,
-                opacity: 1,
-                color: feature.properties.type && feature.properties.type == "company" ? feature.properties.stroke : null,
-                fillOpacity: 0.7,
-                fillColor: feature.properties.type && feature.properties.type == "company" ? feature.properties.fill : null
-            };
-            break;
-        case SHOW_EMPTY:
-            return {
-                weight: feature.properties.width,
-                opacity: 1,
-                color: feature.properties.available ? feature.properties.stroke : null,
-                fillOpacity: 0.7,
-                fillColor: feature.properties.available ? feature.properties.fill : null
-            };
-            break;
-        case SHOW_ALL:
-            return {
-                weight: feature.properties.width,
-                opacity: 1,
-                color: feature.properties.stroke,
-                fillOpacity: 0.7,
-                fillColor: feature.properties.fill
-            };
-            break;
-
-        default:
-            break;
-    }
-}
+geojson = L.geoJson(mapData, {
+    style: style,
+    onEachFeature: onEachFeature
+}).addTo(map);
 
 map.attributionControl.addAttribution(
-    'Datos de lotes del Parque Industrial &copy; <a href="http://prod.cdeluruguay.gob.ar/">Direccion de la Producción de Concepción del Uruguay</a>');
+    'Datos de lotes del Parque Industrial &copy; <a href="http://prod.cdeluruguay.gob.ar/">Direccion de la Producción de Concepción del Uruguay</a>'
+);

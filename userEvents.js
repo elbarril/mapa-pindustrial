@@ -1,3 +1,11 @@
+function onEachFeature(feature, layer) {
+    layer.on({
+        mouseover: highlightFeature,
+        mouseout: resetHighlight,
+        click: zoomToFeature
+    });
+}
+
 function highlightFeature(e) {
     var layer = e.target;
     if (e.target.feature.geometry.type === "Polygon") {
@@ -8,8 +16,6 @@ function highlightFeature(e) {
     } else if (e.target.feature.geometry.type === "Point") {
         return;
     }
-
-
     if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
         layer.bringToFront();
     }
@@ -28,23 +34,9 @@ function resetHighlight(e) {
     } else if (e.target.feature.geometry.type === "Point") {
         return;
     }
-
     info.update();
 }
 
 function zoomToFeature(e) {
     map.fitBounds(e.target.getBounds());
 }
-
-function onEachFeature(feature, layer) {
-    layer.on({
-        mouseover: highlightFeature,
-        mouseout: resetHighlight,
-        click: zoomToFeature
-    });
-}
-
-geojson = L.geoJson(mapData, {
-    style: style,
-    onEachFeature: onEachFeature
-}).addTo(map);
