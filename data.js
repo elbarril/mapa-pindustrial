@@ -47,7 +47,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 1,
                 "name": "YPF GAS",
                 "activity": "Fraccionamiento y comercialización de GLP",
@@ -81,7 +81,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 2,
                 "name": "ARENERA DON ANTONIO",
                 "activity": "Procesamiento de arena, hormigón y canto rodado",
@@ -112,7 +112,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 3,
                 "name": "CELINSKI",
                 "activity": "Metalúrgica - fabricación de prensas pelleteadoras",
@@ -142,7 +142,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 60
             },
             "geometry": {
@@ -166,7 +166,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 59
             },
             "geometry": {
@@ -191,7 +191,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 4,
                 "name": "A. ROPELATO",
                 "activity": "Fabricación de premoldeados de hormigón ",
@@ -222,7 +222,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 5,
                 "name": "INMOBAL NUTRER SA (QUIMTIA)",
                 "activity": "Producción de premezclas y productos químicos para nutrición - Coadyuvantes para elaboración de Biodiesel",
@@ -260,7 +260,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 51,
                 "area": 0.89,
                 "available": "true",
@@ -287,7 +287,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 50
             },
             "geometry": {
@@ -311,7 +311,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 30
             },
             "geometry": {
@@ -336,7 +336,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 31,
                 "area": 0.89,
                 "available": "true",
@@ -364,7 +364,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 17,
                 "name": "PROYECTOS (BOURLOT)",
                 "activity": "Fabricación de muebles",
@@ -395,7 +395,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 47,
                 "area": 0.24,
                 "available": "true",
@@ -422,7 +422,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 46
             },
             "geometry": {
@@ -447,7 +447,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 48,
                 "area": 0.33,
                 "available": "true",
@@ -478,7 +478,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 49,
                 "area": 0.33,
                 "available": "true",
@@ -506,7 +506,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 19,
                 "name": "INDUSTRIAS PLÁSTICAS R.P. (OLIVER ROQUE)",
                 "type": "company"
@@ -532,7 +532,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 32,
                 "area": ""
             },
@@ -557,7 +557,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 33
             },
             "geometry": {
@@ -582,7 +582,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff89",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 16,
                 "name": "INTI - ENTRE RÍOS",
                 "activity": "Instituto Nacional de Tecnología Industrial",
@@ -612,7 +612,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 29
             },
             "geometry": {
@@ -636,7 +636,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 28
             },
             "geometry": {
@@ -661,7 +661,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 20,
                 "name": "LAMBERT",
                 "activity": "Fabricación de acoplados y remolques",
@@ -693,7 +693,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 22,
                 "name": "BIONET",
                 "activity": "Elaboración de coadyuvantes y fertilizantes",
@@ -724,7 +724,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 20,
                 "name": "LAMBERT",
                 "activity": "Fabricación de acoplados y remolques",
@@ -755,7 +755,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 23,
                 "name": "ENTRECOR",
                 "activity": "Fábrica de cartón corrugado y complementos",
@@ -786,7 +786,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 23,
                 "name": "ENTRECOR",
                 "type": "company"
@@ -813,7 +813,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 24,
                 "name": "TRIMADERAS",
                 "type": "company"
@@ -840,7 +840,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 25,
                 "name": "CARNES DEL LITORAL",
                 "activity": "Frigorífico bovino",
@@ -871,7 +871,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 26,
                 "name": "DYNCORP",
                 "activity": "Impregnación de postes de madera",
@@ -902,7 +902,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 27,
                 "name": "INSUMA (CHICCHITTI PABLO)",
                 "type": "company"
@@ -930,7 +930,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 28,
                 "name": "L. PIETROBONI",
                 "type": "company"
@@ -957,7 +957,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 7,
                 "name": "METALÚRGICA LINCAR",
                 "activity": "Fabricación de carrocerías",
@@ -990,7 +990,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 39,
                 "area": 0.24,
                 "available": "true",
@@ -1017,7 +1017,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 40
             },
             "geometry": {
@@ -1042,7 +1042,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 8,
                 "name": "TERCEC",
                 "activity": "Fabricación de productos metálicos para uso estructural –  implementos para minicargadoras",
@@ -1072,7 +1072,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 34
             },
             "geometry": {
@@ -1097,7 +1097,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 6,
                 "name": "ONNER SERVICIOS",
                 "since": 2015,
@@ -1128,7 +1128,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 38,
                 "area": 0.29,
                 "available": "true",
@@ -1155,7 +1155,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5
+                "fillOpacity": 0.5
             },
             "geometry": {
                 "type": "Polygon",
@@ -1178,7 +1178,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 37
             },
             "geometry": {
@@ -1202,7 +1202,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 36
             },
             "geometry": {
@@ -1226,7 +1226,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 35
             },
             "geometry": {
@@ -1251,7 +1251,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 15,
                 "name": "ASERRADERO B. A.",
                 "activity": "Aserradero",
@@ -1283,7 +1283,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 53
             },
             "geometry": {
@@ -1307,7 +1307,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 52
             },
             "geometry": {
@@ -1332,7 +1332,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 9,
                 "name": "EMBOLSAR",
                 "activity": "Fabricación de bolsas de polietileno",
@@ -1362,7 +1362,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 57
             },
             "geometry": {
@@ -1386,7 +1386,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 58
             },
             "geometry": {
@@ -1411,7 +1411,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 56,
                 "area": "0.20",
                 "available": "true",
@@ -1439,7 +1439,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 55,
                 "area": "0.20",
                 "available": "true",
@@ -1466,7 +1466,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 54
             },
             "geometry": {
@@ -1491,7 +1491,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 14,
                 "name": "COOP. APÍCOLA  RÍO DE LOS PÁJAROS",
                 "since": 2014,
@@ -1522,7 +1522,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 13,
                 "name": "MUGHERLI DIEGO",
                 "activity": "Fabricación de muebles y aberturas",
@@ -1553,7 +1553,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 12,
                 "name": "RETAMAL HÉCTOR",
                 "square": "Mz 4 Lotes 14 Y 15",
@@ -1583,7 +1583,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 11,
                 "name": "LA SAMPEDRINA",
                 "activity": "Fabricación de Láminas de cartón asfálticas",
@@ -1613,7 +1613,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 10,
                 "name": "MAGNUS LAB",
                 "since": 2008,
@@ -1644,7 +1644,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 61,
                 "area": 0.17,
                 "available": "true",
@@ -1672,7 +1672,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 62,
                 "area": 0.24,
                 "available": "true",
@@ -1700,7 +1700,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 45,
                 "available": "true",
                 "area": "",
@@ -1728,7 +1728,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 18,
                 "name": "METALÚRGICA PACLAMAR",
                 "activity": "Metalúrgica - Fabricación de incubadoras móviles y Cabinas para ascensores",
@@ -1759,7 +1759,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 42,
                 "area": 0.21,
                 "available": "true",
@@ -1788,7 +1788,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 41,
                 "area": 0.26,
                 "available": "true",
@@ -1816,7 +1816,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 43,
                 "area": 0.33,
                 "available": "true",
@@ -1844,7 +1844,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 44,
                 "area": 0.47,
                 "available": "true",
@@ -1872,7 +1872,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 16,
                 "available": "true",
                 "area": 0.73,
@@ -1899,7 +1899,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 15
             },
             "geometry": {
@@ -1923,7 +1923,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 13
             },
             "geometry": {
@@ -1947,7 +1947,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 11
             },
             "geometry": {
@@ -1971,7 +1971,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 9
             },
             "geometry": {
@@ -1995,7 +1995,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5
+                "fillOpacity": 0.5
             },
             "geometry": {
                 "type": "Polygon",
@@ -2019,7 +2019,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 14,
                 "area": 0.79,
                 "available": "true",
@@ -2046,7 +2046,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 12,
                 "available": ""
             },
@@ -2071,7 +2071,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 10
             },
             "geometry": {
@@ -2095,7 +2095,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 8
             },
             "geometry": {
@@ -2119,7 +2119,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 5
             },
             "geometry": {
@@ -2143,7 +2143,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 6
             },
             "geometry": {
@@ -2167,7 +2167,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 3
             },
             "geometry": {
@@ -2191,7 +2191,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 4
             },
             "geometry": {
@@ -2215,7 +2215,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 1
             },
             "geometry": {
@@ -2239,7 +2239,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 2
             },
             "geometry": {
@@ -2263,7 +2263,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 27
             },
             "geometry": {
@@ -2287,7 +2287,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 26
             },
             "geometry": {
@@ -2311,7 +2311,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 25
             },
             "geometry": {
@@ -2335,7 +2335,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5
+                "fillOpacity": 0.5
             },
             "geometry": {
                 "type": "Polygon",
@@ -2358,7 +2358,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 23
             },
             "geometry": {
@@ -2382,7 +2382,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 22
             },
             "geometry": {
@@ -2406,7 +2406,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 21
             },
             "geometry": {
@@ -2430,7 +2430,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 20
             },
             "geometry": {
@@ -2454,7 +2454,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 19
             },
             "geometry": {
@@ -2478,7 +2478,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 18
             },
             "geometry": {
@@ -2502,7 +2502,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#ffffff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 17
             },
             "geometry": {
@@ -2527,7 +2527,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#0088ff",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "id": 63,
                 "available": "true",
                 "area": 0.33,
@@ -2554,7 +2554,7 @@ data = {
                 "width": 2,
                 "stroke-opacity": 1,
                 "fill": "#fdff85",
-                "fill-opacity": 0.5,
+                "fillOpacity": 0.5,
                 "type": "company"
             },
             "geometry": {
