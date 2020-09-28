@@ -26,10 +26,10 @@ function highlightFeature(e) {
 
 function resetHighlight(e) {
     //geojson.resetStyle(e.target);
-
     if (e.target.feature.geometry.type === "Polygon") {
         e.target.setStyle({
-            weight: e.target.feature.properties.width
+            weight: e.target.feature.properties.width,
+            fillOpacity: e.target.feature.properties.fillOpacity
         });
     } else if (e.target.feature.geometry.type === "Point") {
         return;
