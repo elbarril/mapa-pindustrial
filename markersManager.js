@@ -21,7 +21,36 @@ function addMarker(coordinates) {
     }
 
 }
+function addEmptyMarker(coordinates) {
+    var emptyIcon = new L.Icon({
+        iconUrl: 'marker-icon-lote.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+    });
+    var marker = L.marker(coordinates, { icon: emptyIcon });
+    marker.addTo(map);
+    if (type === TYPE_LOTE) {
+        marker.bindPopup("Lote disponible ").openPopup();
 
+    }
+
+}
+function addCompanyMarker(coordinates) {
+    var companyIcon = new L.Icon({
+        iconUrl: 'marker-icon-compania.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+    });
+    var marker = L.marker(coordinates, { icon: companyIcon });
+    marker.addTo(map);
+
+}
 function addMarkers(show) {
     markers.forEach(marker => {
         coordinatesUnsort = marker.geometry.coordinates;
@@ -30,16 +59,21 @@ function addMarkers(show) {
         switch (show) {
             case SHOW_COMPANY:
                 if (type === TYPE_COMPANY) {
-                    this.addMarker(coordinatesSortedOut);
+                    this.addCompanyMarker(coordinatesSortedOut);
                 }
                 break;
             case SHOW_EMPTY:
                 if (type === TYPE_LOTE) {
-                    this.addMarker(coordinatesSortedOut);
+                    this.addEmptyMarker(coordinatesSortedOut);
                 }
                 break;
             case SHOW_ALL:
-                this.addMarker(coordinatesSortedOut);
+                if (type === TYPE_LOTE) {
+                    this.addEmptyMarker(coordinatesSortedOut);
+                }
+                if (type === TYPE_COMPANY) {
+                    this.addCompanyMarker(coordinatesSortedOut);
+                }
                 break;
             default:
                 break;

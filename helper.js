@@ -96,7 +96,7 @@ window.onload = function() {
             break;
     }
     if (lote) {
-        this.addMarker(coordinates);
+        this.addEmptyMarker(coordinates);
     } else {
         this.addMarkers(show);
     }

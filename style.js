@@ -5,8 +5,8 @@ function style(feature) {
             return {
                 weight: feature.properties.width,
                 opacity: 1,
-                color: feature.properties.type && feature.properties.type == "company" ? feature.properties.stroke : null,
-                fillOpacity: 0.7,
+                color: feature.properties.type && feature.properties.type == "company" || feature.properties.available=="false" ? feature.properties.stroke : null,
+                fillOpacity: feature.properties.fillOpacity,
                 fillColor: feature.properties.type && feature.properties.type == "company" ? feature.properties.fill : null
             };
             break;
@@ -15,7 +15,7 @@ function style(feature) {
                 weight: feature.properties.width,
                 opacity: 1,
                 color: feature.properties.available ? feature.properties.stroke : null,
-                fillOpacity: 0.7,
+                fillOpacity: feature.properties.fillOpacity,
                 fillColor: feature.properties.available ? feature.properties.fill : null
             };
             break;
@@ -24,12 +24,19 @@ function style(feature) {
                 weight: feature.properties.width,
                 opacity: 1,
                 color: feature.properties.stroke,
-                fillOpacity: 0.7,
+                fillOpacity: feature.properties.fillOpacity,
                 fillColor: feature.properties.fill
             };
             break;
 
         default:
+            return {
+                weight: feature.properties.width,
+                opacity: 1,
+                color: feature.properties.stroke,
+                fillOpacity: feature.properties.fillOpacity,
+                fillColor: feature.properties.fill
+            };
             break;
     }
 }
