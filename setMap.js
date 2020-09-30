@@ -17,7 +17,8 @@ geojson = L.geoJson(mapData, {
     style: style,
     onEachFeature: onEachFeature
 }).addTo(map);
+console.log(geojson);
 
 map.attributionControl.addAttribution(
-    'Datos de lotes del Parque Industrial &copy; <a href="http://prod.cdeluruguay.gob.ar/">Direccion de la Producción de Concepción del Uruguay</a>'
+    'Datos de lotes del Parque Industrial &copy; <a href="http://cdeluruguay.gob.ar/produccion">Direccion de la Producción de Concepción del Uruguay</a>'
 );

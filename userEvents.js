@@ -1,9 +1,13 @@
 function onEachFeature(feature, layer) {
-    layer.on({
-        mouseover: highlightFeature,
-        mouseout: resetHighlight,
-        click: zoomToFeature
-    });
+    if(feature.type == 'feature'){
+        
+    console.log(feature.type);
+        layer.on({
+            mouseover: highlightFeature,
+            mouseout: resetHighlight,
+            click: zoomToFeature
+        });
+    };
 }
 
 function highlightFeature(e) {
