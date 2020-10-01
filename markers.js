@@ -1,4 +1,4 @@
-//Para implementarlo hay q borrar el ultimo ]} y pegar esto : 
+//Para implementarlo hay q pegar todo lo q esta entre [] antes de el ultimo ]}: 
 markers = [{
     "type": "Feature",
     "properties": {
