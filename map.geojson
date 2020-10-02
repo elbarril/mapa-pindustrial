@@ -489,6 +489,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -498,7 +499,8 @@
         "id": 51,
         "area": 0.89,
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 7 de la manzana 2 del parque tiene una superficie de 0.89 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -625,6 +627,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -634,7 +637,8 @@
         "id": 31,
         "area": 0.89,
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 1B de la manzana 6 del parque cuenta con una superficie de 0.89 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -724,6 +728,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -733,7 +738,8 @@
         "id": 47,
         "area": 0.24,
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 1A de la manzana 8 del parque cuenta con una superficie de 0.24 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -772,12 +778,15 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#8fcbff",
+        "fill-opacity": 0.5,
+        "stroke-width": 2,
+        "stroke": "#3da5ff",
         "width": 2,
         "stroke-opacity": 1,
-        "fill": "#ffffff",
+        "fill": "#8fcbff",
         "fillOpacity": 0.5,
-        "id": 46
+        "id": 46,
+        "info": "El lote 1B de la manzana 8 del parque cuenta con una superficie de 0.22 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -816,6 +825,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -828,7 +838,8 @@
         "since": "",
         "square": "",
         "name": "",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 2 de la manzana 8 del parque cuenta con una superficie de 0.33 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -867,6 +878,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -876,7 +888,8 @@
         "id": 49,
         "area": 0.33,
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 3 de la manzana 8 del parque cuenta con una superficie de 0.33 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -1398,6 +1411,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#fda830",
         "width": 2,
@@ -1406,7 +1420,11 @@
         "fillOpacity": 0.5,
         "id": 23,
         "name": "ENTRECOR",
-        "type": "company"
+        "type": "company",
+        "activity": "Fábrica de cartón corrugado y complementos",
+        "since": 1984,
+        "area": "1,96",
+        "square": "Mz 10 Lotes 1,2 Y 3A"
       },
       "geometry": {
         "type": "Polygon",
@@ -1752,6 +1770,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -1761,7 +1780,8 @@
         "id": 39,
         "area": 0.24,
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 4A de la manzana 3 del parque cuenta con una superficie de 0.24 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -2000,7 +2020,8 @@
         "id": 38,
         "area": 0.29,
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 2 de la manzana 3 del parque cuenta con una superficie de 0.29 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -2500,6 +2521,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -2509,7 +2531,8 @@
         "id": 56,
         "area": "0.20",
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 6 de la manzana 4 del parque cuenta con una superficie de 0.20 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -2893,6 +2916,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -2902,7 +2926,8 @@
         "id": 61,
         "area": 0.17,
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 11A de la manzana 4 del parque cuenta con una superficie de 0.17 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -2941,6 +2966,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -2950,7 +2976,8 @@
         "id": 62,
         "area": 0.24,
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 11B de la manzana 4 del parque cuenta con una superficie de 0.24 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -3088,6 +3115,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -3098,7 +3126,8 @@
         "area": 0.21,
         "available": "true",
         "since": "",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 1A de la manzana 7 del parque cuenta con una superficie de 0.21 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -3137,6 +3166,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -3146,7 +3176,8 @@
         "id": 41,
         "area": 0.26,
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 1B de la manzana 7 del parque cuenta con una superficie de 0.26 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -3185,6 +3216,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -3194,7 +3226,8 @@
         "id": 43,
         "area": 0.33,
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 2 de la manzana 7 del parque cuenta con una superficie de 0.45 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -3233,6 +3266,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -3242,7 +3276,8 @@
         "id": 44,
         "area": 0.47,
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 3 de la manzana 7 del parque cuenta con una superficie de 0.47 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -3281,6 +3316,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -3290,7 +3326,8 @@
         "id": 16,
         "available": "true",
         "area": 0.73,
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 2 de la manzana 15 del parque cuenta con una superficie de 0.79 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -3548,6 +3585,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -3557,7 +3595,8 @@
         "id": 14,
         "area": 0.79,
         "available": "true",
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 3 de la manzana 15 del parque cuenta con una superficie de 0.73 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -4476,6 +4515,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#3da5ff",
         "width": 2,
@@ -4485,7 +4525,8 @@
         "id": 63,
         "available": "true",
         "area": 0.33,
-        "type": "lote"
+        "type": "lote",
+        "info": "El lote 4 de la manzana 8 del parque cuenta con una superficie de 0.33 hectáreas  "
       },
       "geometry": {
         "type": "Polygon",
@@ -4518,13 +4559,16 @@
     {
       "type": "Feature",
       "properties": {
+        "fill-opacity": 0.5,
         "stroke-width": 2,
         "stroke": "#fda830",
         "width": 2,
         "stroke-opacity": 1,
         "fill": "#ffee80",
         "fillOpacity": 0.5,
-        "type": "company"
+        "type": "company",
+        "name": "LONGUE VIE SRL",
+        "activity": "Impregnación de postes de madera"
       },
       "geometry": {
         "type": "Polygon",
@@ -4585,7 +4629,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 1
+        "id": 1,
+        "name": "YPF GAS"
       },
       "geometry": {
         "type": "Point",
@@ -4602,7 +4647,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 2
+        "id": 2,
+        "name": "ARENERA DON ANTONIO"
       },
       "geometry": {
         "type": "Point",
@@ -4619,7 +4665,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 3
+        "id": 3,
+        "name": "CELINSKI"
       },
       "geometry": {
         "type": "Point",
@@ -4636,7 +4683,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 4
+        "id": 4,
+        "name": "A. ROPELATO"
       },
       "geometry": {
         "type": "Point",
@@ -4653,7 +4701,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 5
+        "id": 5,
+        "name": "INMOBAL NUTRER SA (QUIMTIA)"
       },
       "geometry": {
         "type": "Point",
@@ -4670,7 +4719,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 15
+        "id": 15,
+        "name": "ASERRADERO B. A."
       },
       "geometry": {
         "type": "Point",
@@ -4687,7 +4737,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 14
+        "id": 14,
+        "name": "COOP. APÍCOLA  RÍO DE LOS PÁJAROS"
       },
       "geometry": {
         "type": "Point",
@@ -4704,7 +4755,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 13
+        "id": 13,
+        "name": "MUGHERLI DIEGO"
       },
       "geometry": {
         "type": "Point",
@@ -4721,7 +4773,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 12
+        "id": 12,
+        "name": "RETAMAL HÉCTOR"
       },
       "geometry": {
         "type": "Point",
@@ -4738,7 +4791,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 11
+        "id": 11,
+        "name": "LA SAMPEDRINA"
       },
       "geometry": {
         "type": "Point",
@@ -4755,7 +4809,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 18
+        "id": 18,
+        "name": "METALÚRGICA PACLAMAR"
       },
       "geometry": {
         "type": "Point",
@@ -4772,7 +4827,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 6
+        "id": 6,
+        "name": "ONNER SERVICIOS"
       },
       "geometry": {
         "type": "Point",
@@ -4789,7 +4845,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 9
+        "id": 9,
+        "name": "METALÚRGICA LINCAR"
       },
       "geometry": {
         "type": "Point",
@@ -4806,7 +4863,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 8
+        "id": 8,
+        "name": "TERCEC"
       },
       "geometry": {
         "type": "Point",
@@ -4823,7 +4881,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 9
+        "id": 9,
+        "name": "EMBOLSAR"
       },
       "geometry": {
         "type": "Point",
@@ -4840,7 +4899,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 10
+        "id": 10,
+        "name": "MAGNUS LAB"
       },
       "geometry": {
         "type": "Point",
@@ -4857,7 +4917,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 17
+        "id": 17,
+        "name": "PROYECTOS (BOURLOT)"
       },
       "geometry": {
         "type": "Point",
@@ -4874,7 +4935,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 19
+        "id": 19,
+        "name": "INDUSTRIAS PLÁSTICAS R.P. (OLIVER ROQUE)"
       },
       "geometry": {
         "type": "Point",
@@ -4891,7 +4953,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 16
+        "id": 16,
+        "name": "INTI - ENTRE RÍOS"
       },
       "geometry": {
         "type": "Point",
@@ -4908,7 +4971,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 22
+        "id": 22,
+        "name": "BIONET"
       },
       "geometry": {
         "type": "Point",
@@ -4925,7 +4989,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 20
+        "id": 20,
+        "name": "LAMBERT"
       },
       "geometry": {
         "type": "Point",
@@ -4941,7 +5006,8 @@
         "marker-color": "#ca9b49",
         "marker-size": "medium",
         "marker-symbol": "industrial",
-        "type": "company"
+        "type": "company",
+        "name": "LONGUE VIE SRL"
       },
       "geometry": {
         "type": "Point",
@@ -4958,7 +5024,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 20
+        "id": 20,
+        "name": "LAMBERT"
       },
       "geometry": {
         "type": "Point",
@@ -4975,7 +5042,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 23
+        "id": 23,
+        "name": "ENTRECOR"
       },
       "geometry": {
         "type": "Point",
@@ -4992,7 +5060,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 23
+        "id": 23,
+        "name": "ENTRECOR"
       },
       "geometry": {
         "type": "Point",
@@ -5009,7 +5078,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 24
+        "id": 24,
+        "name": "TRIMADERAS"
       },
       "geometry": {
         "type": "Point",
@@ -5026,7 +5096,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 25
+        "id": 25,
+        "name": "CARNES DEL LITORAL"
       },
       "geometry": {
         "type": "Point",
@@ -5043,7 +5114,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 26
+        "id": 26,
+        "name": "DYNCORP"
       },
       "geometry": {
         "type": "Point",
@@ -5060,7 +5132,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 27
+        "id": 27,
+        "name": "INSUMA (CHICCHITTI PABLO)"
       },
       "geometry": {
         "type": "Point",
@@ -5077,7 +5150,8 @@
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "type": "company",
-        "id": 28
+        "id": 28,
+        "name": "L. PIETROBONI"
       },
       "geometry": {
         "type": "Point",
@@ -5094,7 +5168,8 @@
         "marker-color": "#8fcbff",
         "marker-size": "medium",
         "type": "lote",
-        "id": 38
+        "id": 38,
+        "info": "El lote 2 de la manzana 3 del parque cuenta con una superficie de 0.29 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5111,7 +5186,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 39
+        "id": 39,
+        "info": "El lote 4A de la manzana 3 del parque cuenta con una superficie de 0.24 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5128,7 +5204,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 61
+        "id": 61,
+        "info": "El lote 11A de la manzana 4 del parque cuenta con una superficie de 0.17 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5145,7 +5222,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 62
+        "id": 62,
+        "info": "El lote 11B de la manzana 4 del parque cuenta con una superficie de 0.24 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5162,7 +5240,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 31
+        "id": 31,
+        "info": "El lote 1B de la manzana 6 del parque cuenta con una superficie de 0.89 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5179,7 +5258,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 42
+        "id": 42,
+        "info": "El lote 1A de la manzana 7 del parque cuenta con una superficie de 0.21 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5196,7 +5276,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 41
+        "id": 41,
+        "info": "El lote 1B de la manzana 7 del parque cuenta con una superficie de 0.26 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5213,7 +5294,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 43
+        "id": 43,
+        "info": "El lote 2 de la manzana 7 del parque cuenta con una superficie de 0.45 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5230,7 +5312,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 44
+        "id": 44,
+        "info": "El lote 3 de la manzana 7 del parque cuenta con una superficie de 0.47 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5247,7 +5330,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 56
+        "id": 56,
+        "info": "El lote 6 de la manzana 4 del parque cuenta con una superficie de 0.20 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5264,7 +5348,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 55
+        "id": 55,
+        "info": "El lote 7 de la manzana 4 del parque cuenta con una superficie de 0.20 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5281,7 +5366,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 51
+        "id": 51,
+        "info": "El lote 7 de la manzana 2 del parque tiene una superficie de 0.89 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5298,7 +5384,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 47
+        "id": 47,
+        "info": "El lote 1A de la manzana 8 del parque cuenta con una superficie de 0.24 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5315,7 +5402,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 48
+        "id": 48,
+        "info": "El lote 2 de la manzana 8 del parque cuenta con una superficie de 0.33 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5332,7 +5420,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 49
+        "id": 49,
+        "info": "El lote 3 de la manzana 8 del parque cuenta con una superficie de 0.33 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5349,7 +5438,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 50
+        "id": 50,
+        "info": "El lote 4 de la manzana 8 del parque cuenta con una superficie de 0.33 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5383,7 +5473,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 16
+        "id": 16,
+        "info": "El lote 2 de la manzana 15 del parque cuenta con una superficie de 0.79 hectáreas  "
       },
       "geometry": {
         "type": "Point",
@@ -5400,13 +5491,32 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "type": "lote",
-        "id": 14
+        "id": 14,
+        "info": "El lote 3 de la manzana 15 del parque cuenta con una superficie de 0.73 hectáreas  "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -58.311041593551636,
           -32.501333477020815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8fcbff",
+        "marker-size": "medium",
+        "marker-symbol": "entrance",
+        "type": "lote",
+        "id": 46,
+        "info": "El lote 1B de la manzana 8 del parque cuenta con una superficie de 0.22 hectáreas  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.30318808555603,
+          -32.493420238062164
         ]
       }
     }
