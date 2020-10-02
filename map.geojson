@@ -500,7 +500,8 @@
         "area": 0.89,
         "available": "true",
         "type": "lote",
-        "info": "El lote 7 de la manzana 2 del parque tiene una superficie de 0.89 hectáreas  "
+        "info": "El lote 7 de la manzana 2 del parque tiene una superficie de 0.89 hectáreas  ",
+        "name": "7mz2"
       },
       "geometry": {
         "type": "Polygon",
@@ -638,7 +639,8 @@
         "area": 0.89,
         "available": "true",
         "type": "lote",
-        "info": "El lote 1B de la manzana 6 del parque cuenta con una superficie de 0.89 hectáreas  "
+        "info": "El lote 1B de la manzana 6 del parque cuenta con una superficie de 0.89 hectáreas  ",
+        "name": "1bmz6"
       },
       "geometry": {
         "type": "Polygon",
@@ -1781,7 +1783,8 @@
         "area": 0.24,
         "available": "true",
         "type": "lote",
-        "info": "El lote 4A de la manzana 3 del parque cuenta con una superficie de 0.24 hectáreas  "
+        "info": "El lote 4A de la manzana 3 del parque cuenta con una superficie de 0.24 hectáreas  ",
+        "name": "4amz3"
       },
       "geometry": {
         "type": "Polygon",
@@ -2021,7 +2024,8 @@
         "area": 0.29,
         "available": "true",
         "type": "lote",
-        "info": "El lote 2 de la manzana 3 del parque cuenta con una superficie de 0.29 hectáreas  "
+        "info": "El lote 2 de la manzana 3 del parque cuenta con una superficie de 0.29 hectáreas  ",
+        "name": "2mz3"
       },
       "geometry": {
         "type": "Polygon",
@@ -2927,7 +2931,8 @@
         "area": 0.17,
         "available": "true",
         "type": "lote",
-        "info": "El lote 11A de la manzana 4 del parque cuenta con una superficie de 0.17 hectáreas  "
+        "info": "El lote 11A de la manzana 4 del parque cuenta con una superficie de 0.17 hectáreas  ",
+        "name": "11amz4"
       },
       "geometry": {
         "type": "Polygon",
@@ -2977,7 +2982,8 @@
         "area": 0.24,
         "available": "true",
         "type": "lote",
-        "info": "El lote 11B de la manzana 4 del parque cuenta con una superficie de 0.24 hectáreas  "
+        "info": "El lote 11B de la manzana 4 del parque cuenta con una superficie de 0.24 hectáreas  ",
+        "name": "11bmz4"
       },
       "geometry": {
         "type": "Polygon",
@@ -3127,7 +3133,8 @@
         "available": "true",
         "since": "",
         "type": "lote",
-        "info": "El lote 1A de la manzana 7 del parque cuenta con una superficie de 0.21 hectáreas  "
+        "info": "El lote 1A de la manzana 7 del parque cuenta con una superficie de 0.21 hectáreas  ",
+        "name": "1amz7"
       },
       "geometry": {
         "type": "Polygon",
@@ -3177,7 +3184,8 @@
         "area": 0.26,
         "available": "true",
         "type": "lote",
-        "info": "El lote 1B de la manzana 7 del parque cuenta con una superficie de 0.26 hectáreas  "
+        "info": "El lote 1B de la manzana 7 del parque cuenta con una superficie de 0.26 hectáreas  ",
+        "name": "1bmz7"
       },
       "geometry": {
         "type": "Polygon",
@@ -3277,7 +3285,8 @@
         "area": 0.47,
         "available": "true",
         "type": "lote",
-        "info": "El lote 3 de la manzana 7 del parque cuenta con una superficie de 0.47 hectáreas  "
+        "info": "El lote 3 de la manzana 7 del parque cuenta con una superficie de 0.47 hectáreas  ",
+        "name": "3mz7"
       },
       "geometry": {
         "type": "Polygon",
@@ -5169,7 +5178,8 @@
         "marker-size": "medium",
         "type": "lote",
         "id": 38,
-        "info": "El lote 2 de la manzana 3 del parque cuenta con una superficie de 0.29 hectáreas  "
+        "info": "El lote 2 de la manzana 3 del parque cuenta con una superficie de 0.29 hectáreas  ",
+        "name": "2mz3"
       },
       "geometry": {
         "type": "Point",
@@ -5187,7 +5197,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 39,
-        "info": "El lote 4A de la manzana 3 del parque cuenta con una superficie de 0.24 hectáreas  "
+        "info": "El lote 4A de la manzana 3 del parque cuenta con una superficie de 0.24 hectáreas  ",
+        "name": "4amz3"
       },
       "geometry": {
         "type": "Point",
@@ -5205,7 +5216,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 61,
-        "info": "El lote 11A de la manzana 4 del parque cuenta con una superficie de 0.17 hectáreas  "
+        "info": "El lote 11A de la manzana 4 del parque cuenta con una superficie de 0.17 hectáreas  ",
+        "name": "11amz4"
       },
       "geometry": {
         "type": "Point",
@@ -5223,7 +5235,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 62,
-        "info": "El lote 11B de la manzana 4 del parque cuenta con una superficie de 0.24 hectáreas  "
+        "info": "El lote 11B de la manzana 4 del parque cuenta con una superficie de 0.24 hectáreas  ",
+        "name": "11bmz4"
       },
       "geometry": {
         "type": "Point",
@@ -5241,7 +5254,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 31,
-        "info": "El lote 1B de la manzana 6 del parque cuenta con una superficie de 0.89 hectáreas  "
+        "info": "El lote 1B de la manzana 6 del parque cuenta con una superficie de 0.89 hectáreas  ",
+        "name": "1bmz6"
       },
       "geometry": {
         "type": "Point",
@@ -5259,7 +5273,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 42,
-        "info": "El lote 1A de la manzana 7 del parque cuenta con una superficie de 0.21 hectáreas  "
+        "info": "El lote 1A de la manzana 7 del parque cuenta con una superficie de 0.21 hectáreas  ",
+        "name": "1amz7"
       },
       "geometry": {
         "type": "Point",
@@ -5277,7 +5292,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 41,
-        "info": "El lote 1B de la manzana 7 del parque cuenta con una superficie de 0.26 hectáreas  "
+        "info": "El lote 1B de la manzana 7 del parque cuenta con una superficie de 0.26 hectáreas  ",
+        "name": "1bmz7"
       },
       "geometry": {
         "type": "Point",
@@ -5295,7 +5311,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 43,
-        "info": "El lote 2 de la manzana 7 del parque cuenta con una superficie de 0.45 hectáreas  "
+        "info": "El lote 2 de la manzana 7 del parque cuenta con una superficie de 0.45 hectáreas  ",
+        "name": "2mz7"
       },
       "geometry": {
         "type": "Point",
@@ -5313,7 +5330,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 44,
-        "info": "El lote 3 de la manzana 7 del parque cuenta con una superficie de 0.47 hectáreas  "
+        "info": "El lote 3 de la manzana 7 del parque cuenta con una superficie de 0.47 hectáreas  ",
+        "name": "3mz7"
       },
       "geometry": {
         "type": "Point",
@@ -5331,7 +5349,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 56,
-        "info": "El lote 6 de la manzana 4 del parque cuenta con una superficie de 0.20 hectáreas  "
+        "info": "El lote 6 de la manzana 4 del parque cuenta con una superficie de 0.20 hectáreas  ",
+        "name": "6mz4"
       },
       "geometry": {
         "type": "Point",
@@ -5349,7 +5368,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 55,
-        "info": "El lote 7 de la manzana 4 del parque cuenta con una superficie de 0.20 hectáreas  "
+        "info": "El lote 7 de la manzana 4 del parque cuenta con una superficie de 0.20 hectáreas  ",
+        "name": "7mz4"
       },
       "geometry": {
         "type": "Point",
@@ -5367,7 +5387,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 51,
-        "info": "El lote 7 de la manzana 2 del parque tiene una superficie de 0.89 hectáreas  "
+        "info": "El lote 7 de la manzana 2 del parque tiene una superficie de 0.89 hectáreas  ",
+        "name": "7mz2"
       },
       "geometry": {
         "type": "Point",
@@ -5385,7 +5406,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 47,
-        "info": "El lote 1A de la manzana 8 del parque cuenta con una superficie de 0.24 hectáreas  "
+        "info": "El lote 1A de la manzana 8 del parque cuenta con una superficie de 0.24 hectáreas  ",
+        "name": "1amz8"
       },
       "geometry": {
         "type": "Point",
@@ -5403,7 +5425,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 48,
-        "info": "El lote 2 de la manzana 8 del parque cuenta con una superficie de 0.33 hectáreas  "
+        "info": "El lote 2 de la manzana 8 del parque cuenta con una superficie de 0.33 hectáreas  ",
+        "name": "2mz8"
       },
       "geometry": {
         "type": "Point",
@@ -5421,7 +5444,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 49,
-        "info": "El lote 3 de la manzana 8 del parque cuenta con una superficie de 0.33 hectáreas  "
+        "info": "El lote 3 de la manzana 8 del parque cuenta con una superficie de 0.33 hectáreas  ",
+        "name": "3amz8"
       },
       "geometry": {
         "type": "Point",
@@ -5439,7 +5463,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 50,
-        "info": "El lote 4 de la manzana 8 del parque cuenta con una superficie de 0.33 hectáreas  "
+        "info": "El lote 4 de la manzana 8 del parque cuenta con una superficie de 0.33 hectáreas  ",
+        "name": "4amz8"
       },
       "geometry": {
         "type": "Point",
@@ -5474,7 +5499,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 16,
-        "info": "El lote 2 de la manzana 15 del parque cuenta con una superficie de 0.79 hectáreas  "
+        "info": "El lote 2 de la manzana 15 del parque cuenta con una superficie de 0.79 hectáreas  ",
+        "name": "2mz15"
       },
       "geometry": {
         "type": "Point",
@@ -5492,7 +5518,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 14,
-        "info": "El lote 3 de la manzana 15 del parque cuenta con una superficie de 0.73 hectáreas  "
+        "info": "El lote 3 de la manzana 15 del parque cuenta con una superficie de 0.73 hectáreas  ",
+        "name": "3mz15"
       },
       "geometry": {
         "type": "Point",
@@ -5510,7 +5537,8 @@
         "marker-symbol": "entrance",
         "type": "lote",
         "id": 46,
-        "info": "El lote 1B de la manzana 8 del parque cuenta con una superficie de 0.22 hectáreas  "
+        "info": "El lote 1B de la manzana 8 del parque cuenta con una superficie de 0.22 hectáreas  ",
+        "name": "1bmz8"
       },
       "geometry": {
         "type": "Point",
