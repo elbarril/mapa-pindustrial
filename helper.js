@@ -1,14 +1,14 @@
 const SHOW_COMPANY = "company";
 const SHOW_EMPTY = "empty";
 const SHOW_ALL = "all";
-const COORDINATES_DEFAULT = [-32.497358, -58.308406];
-const ZOOM_DEFAULT = 15;
+const COORDINATES_DEFAULT = [-32.489511, -58.267581];
+const ZOOM_DEFAULT = 13;
 const ZOOM_LOTES = 20;
 
 var coordinates = COORDINATES_DEFAULT;
 var lat = -32.496;
 var lng = -58.305;
-var zoom = 14;
+var zoom = 2;
 var show;
 
 getShow = function() {
@@ -96,9 +96,10 @@ window.onload = function() {
             break;
     }
     if (lote) {
-        this.addEmptyMarker(coordinates);
+        this.addSpecificMarker(coordinates, lote);
     } else {
         this.addMarkers(show);
     }
+    console.log(zoom);
     map.setView(coordinates, zoom);
 }
