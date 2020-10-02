@@ -1,7 +1,5 @@
 function onEachFeature(feature, layer) {
-    if(feature.type == 'feature'){
-        
-    console.log(feature.type);
+    if (feature.type == 'feature') {
         layer.on({
             mouseover: highlightFeature,
             mouseout: resetHighlight,
