@@ -16,31 +16,29 @@ function addEmptyMarker(coordinates, markerData) {
 
 function addSpecificMarker(coordinates, loteName) {
     var marker = this.createMarker(ICON_LOTE, coordinates);
-    data.features.forEach(polygon => {
-        console.log(polygon.properties, "polygon.properties");
-
-        if (polygon.properties.name == loteName) { console.log(polygon.properties.id, "hola"); }
+    markers.forEach(markerData => {
+        if (markerData.properties.name == loteName) {
+            marker.bindPopup(markerData.properties.info).openPopup();
+        }
     });
-    //marker.bindPopup(markerData.properties.info).openPopup();
 }
 
-function addCompanyMarker(coordinates) {
-    var marker = this.createMarker(ICON_LOTE, coordinates);
-    if (marker.properties != undefined) {
-        marker.bindPopup(marker.properties.name).openPopup();
-    }
+function addCompanyMarker(coordinates, markerData) {
+    var marker = this.createMarker(ICON_COMPANY, coordinates);
+    marker.on("click", function(event) {
+        map.setView(event.latlng, 18);
+    });
 }
 
 function addMarkers(show) {
     markers.forEach(markerData => {
-        console.log(markerData);
         coordinatesUnsort = markerData.geometry.coordinates;
         coordinatesSortedOut = [coordinatesUnsort[1], coordinatesUnsort[0]];
         type = markerData.properties.type;
         switch (show) {
             case SHOW_COMPANY:
                 if (type === TYPE_COMPANY) {
-                    this.addCompanyMarker(coordinatesSortedOut);
+                    this.addCompanyMarker(coordinatesSortedOut, markerData);
                 }
                 break;
             case SHOW_EMPTY:
@@ -53,7 +51,7 @@ function addMarkers(show) {
                     this.addEmptyMarker(coordinatesSortedOut, markerData);
                 }
                 if (type === TYPE_COMPANY) {
-                    this.addCompanyMarker(coordinatesSortedOut);
+                    this.addCompanyMarker(coordinatesSortedOut, markerData);
                 }
                 break;
             default:
@@ -61,7 +59,7 @@ function addMarkers(show) {
                     this.addEmptyMarker(coordinatesSortedOut, markerData);
                 }
                 if (type === TYPE_COMPANY) {
-                    this.addCompanyMarker(coordinatesSortedOut);
+                    this.addCompanyMarker(coordinatesSortedOut, markerData);
                 }
                 break;
         }
