@@ -8,7 +8,7 @@ const ZOOM_LOTES = 20;
 var coordinates = COORDINATES_DEFAULT;
 var lat = -32.496;
 var lng = -58.305;
-var zoom = 2;
+var zoom = ZOOM_DEFAULT;
 var show;
 
 getShow = function() {
