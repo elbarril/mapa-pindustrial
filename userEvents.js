@@ -1,5 +1,5 @@
 function onEachFeature(feature, layer) {
-    if (feature.type == 'feature') {
+    if (feature.type == 'feature' && show == SHOW_COMPANY) {
         layer.on({
             mouseover: highlightFeature,
             mouseout: resetHighlight,
