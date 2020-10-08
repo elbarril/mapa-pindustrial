@@ -33,9 +33,9 @@ info.update = function(props) {
         case SHOW_EMPTY:
             if (props) {
                 if (props.name) {
-                    this._div.innerHTML = '<h4>PARQUE INDUSTRIAL</h4>';
+                    this._div.innerHTML = '<h4> ' + props.name + '</h4>';
                 } else {
-                    this._div.innerHTML = '<h4>LOGICA DE LOS LOTES</h4>';
+                    this._div.innerHTML = '<h4>PARQUE INDUSTRIAL</h4>';
                 }
             } else {
                 this._div.innerHTML = '<h4>PARQUE INDUSTRIAL</h4>';
