@@ -6,9 +6,33 @@ const ICON_COMPANY = 'marker-icon-compania.png';
 const ICON_SHADOW = 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png';
 var type = null;
 
+function drawInfo(markerData) {
+    if (markerData != undefined && markerData.properties.name != undefined) {
+        var name = markerData.properties.name;
+        name = name.split(/[ &m]/);
+        newName =
+            'Lote '
+            .concat(name[0]
+                .concat(' M')
+                .concat(name[1])
+            );
+        var props = {
+            "name": newName
+        }
+        info.update(props);
+    }
+}
 
 function addEmptyMarker(coordinates, markerData) {
     var marker = this.createMarker(ICON_LOTE, coordinates);
+    this.drawPopup(marker, markerData);
+    marker.on("click", function(event) {
+        drawInfo(markerData);
+        map.setView(event.latlng, 18);
+    });
+}
+
+function drawPopup(marker, markerData) {
     if (markerData != undefined) {
         marker.bindPopup(markerData.properties.info).openPopup();
     }
@@ -16,9 +40,11 @@ function addEmptyMarker(coordinates, markerData) {
 
 function addSpecificMarker(coordinates, loteName) {
     var marker = this.createMarker(ICON_LOTE, coordinates);
+    this.addMarkers(SHOW_EMPTY);
     markers.forEach(markerData => {
         if (markerData.properties.name == loteName) {
             marker.bindPopup(markerData.properties.info).openPopup();
+            this.drawInfo(markerData);
         }
     });
 }
